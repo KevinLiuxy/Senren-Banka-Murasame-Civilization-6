@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="千恋＊万花"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="千恋＊万花"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SENREN_BANKA_ADJECTIVE"
+			Text="千恋万花"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="PlaceHolder"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="PlaceHolder"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MURASAME_NAME"
+			Text="丛雨"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MURASAME_NAME"
+			Text="穗织的守护神"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MURASAME_DESCRIPTION"
+			Text="PlaceHolder"/>
+	</LocalizedText>
+</GameData>

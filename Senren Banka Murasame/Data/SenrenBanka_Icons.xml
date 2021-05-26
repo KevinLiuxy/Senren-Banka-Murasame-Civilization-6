@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_256.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_200.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_128.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_80.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_64.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_50.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_48.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_44.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_36.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_32.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_30.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SENREN_BANKA_22.dds"/>
+
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_48.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_32.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_SENREN_BANKA" Atlas="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" index="0"/>
+		<Row Name="ICON_LEADER_MURASAME" Atlas="ICON_ATLAS_LEADER_MURASAME" index="0"/>
+	</IconDefinitions>
+</GameData>

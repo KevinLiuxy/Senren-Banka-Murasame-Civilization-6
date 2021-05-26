@@ -1,0 +1,13 @@
+Starting AssetCooker...
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame\XLPs\Civilization_Art.xlp
+Opened output file: C:\Users\liuxi\Documents\My Games\Sid Meier's Civilization VI\Mods\Senren Banka Murasame\Platforms\MacOS\BLPs/Civilization_Art.blp    For XLP: 'C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame\XLPs\Civilization_Art.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'Civilization_Art'
+Load finished for: 'Civilization_Art' in 0.009 seconds
+Cook finished for: 'Civilization_Art' in 0.008 seconds
+Disk write finished for: 'Civilization_Art' in 0.032 seconds
+Cleanup finished for: 'Civilization_Art' in 0.000 seconds
+XLP cook completed with success.
+Cook completed in 0.060 seconds

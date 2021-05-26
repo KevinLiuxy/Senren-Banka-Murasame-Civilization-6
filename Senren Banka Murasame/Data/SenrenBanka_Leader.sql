@@ -1,0 +1,8 @@
+INSERT INTO Types (Type, Kind)
+VALUES	('LEADER_MURASAME',	'KIND_LEADER'	);
+
+INSERT INTO Leaders (LeaderType, Name, Sex, InheritFrom, SceneLayers)
+VALUES ('LEADER_MURASAME', 'LOC_LEADER_MURASAME_NAME', 'Female', 'LEADER_DEFAULT', 4);
+
+INSERT INTO CivilizationLeaders (CivilizationType, LeaderType, CapitalName)
+VALUES ('CIVILIZATION_SENREN_BANKA', 'LEADER_MURASAME', 'LOC_CITY_NAME_SENREN_BANKA_1');

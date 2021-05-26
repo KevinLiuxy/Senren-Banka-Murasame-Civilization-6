@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>MOD_SENREN_BANKA_MURASAME</Name>
+    <Guid>f492490c-8930-4c13-ab06-27ab842490b2</Guid>
+    <ProjectGuid>177335ed-fc9f-42d7-b18d-ffd131211852</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>LOC_MOD_SENREN_BANKA_MURASAME_TEASER</Teaser>
+    <Description>LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION</Description>
+    <Authors>Kevin Liu</Authors>
+    <SpecialThanks>Hemmelfort</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Senren Banka Murasame</AssemblyName>
+    <RootNamespace>Senren Banka Murasame</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Config.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_FRONTEND"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Civilization.sql</File><File>Data/SenrenBanka_Leader.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP1"><File>Data/SenrenBanka_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP2"><File>Data/SenrenBanka_Expansion2.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_INGAME"><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Murasame_en_US.xml</File><File>Text/Murasame_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="SENREN_BANKA_INGAME" /></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Senren Banka Murasame.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ArtDef Include="ArtDefs\Civilization.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Culture.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Landmarks.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\LeaderFallBack.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <Content Include="Data\SenrenBanka_Civilization.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Colors.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Expansion1.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Expansion2.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\SenrenBanka_Leader.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\InGame_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\InGame_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Murasame_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Murasame_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <XLP Include="XLPs\Civilization_Art.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Data\" />
+    <Folder Include="Text\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Civilization_Art"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_256"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_32"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_45"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_48"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_50"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_55"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_64"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MURASAME_80"/>
+			<m_ObjectName text="ICON_LEADER_MURASAME_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SENREN_BANKA_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
