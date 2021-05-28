@@ -29,6 +29,9 @@
     <Element>
       <consumerName text="Landmarks"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="CityBuildings"/>
@@ -67,6 +70,9 @@
     <Element>
       <consumerName text="StrategicView_Sprite"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Sprite"/>
@@ -77,6 +83,9 @@
     <Element>
       <consumerName text="StrategicView_Route"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Route"/>
@@ -191,6 +200,8 @@
     <Element>
       <consumerName text="VFX"/>
       <relativeArtDefPaths>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="VFX"/>
@@ -229,8 +240,10 @@
       <consumerName text="Camera"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
-      <loadsLibraries>false</loadsLibraries>
+      <libraryDependencies>
+		<Element text="CameraAnimation"/>
+	  </libraryDependencies>
+      <loadsLibraries>true</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Terrains"/>
@@ -277,6 +290,9 @@
     <Element>
       <consumerName text="WorldView_Translate"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -284,6 +300,9 @@
     <Element>
       <consumerName text="StrategicView_Translate"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -291,6 +310,10 @@
     <Element>
       <consumerName text="Audio"/>
       <relativeArtDefPaths>
+	      <Element text="Civilization.artdef"/>
+	      <Element text="Culture.artdef"/>
+	      <Element text="Landmarks.artdef"/>
+	      <Element text="Leader.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -298,6 +321,7 @@
     <Element>
       <consumerName text="LeaderLighting"/>
       <relativeArtDefPaths>
+	    <Element text="Leader.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="LeaderLighting"/>
@@ -308,6 +332,7 @@
     <Element>
       <consumerName text="Leaders"/>
       <relativeArtDefPaths>
+	    <Element text="Leader.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="Leader"/>
@@ -319,6 +344,7 @@
     <Element>
       <consumerName text="LeaderFallback"/>
       <relativeArtDefPaths>
+	    <Element text="LeaderFallBack.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="LeaderFallback"/>
@@ -450,6 +476,7 @@
     <Element>
       <libraryName text="Leader"/>
       <relativePackagePaths>
+	    <Element text="Civilization_Leader"/>
       </relativePackagePaths>
     </Element>
     <Element>

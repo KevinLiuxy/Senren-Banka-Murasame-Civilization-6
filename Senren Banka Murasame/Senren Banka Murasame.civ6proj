@@ -39,6 +39,9 @@
     <ArtDef Include="ArtDefs\LeaderFallBack.artdef">
       <SubType>Content</SubType>
     </ArtDef>
+    <ArtDef Include="ArtDefs\Leader.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
     <Content Include="Data\SenrenBanka_Civilization.sql">
       <SubType>Content</SubType>
     </Content>
@@ -78,6 +81,9 @@
     <Content Include="Text\Murasame_zh_Hans_CN.xml">
       <SubType>Content</SubType>
     </Content>
+    <XLP Include="XLPs\Civilization_Leader.xlp">
+      <SubType>Content</SubType>
+    </XLP>
     <XLP Include="XLPs\Civilization_Art.xlp">
       <SubType>Content</SubType>
     </XLP>

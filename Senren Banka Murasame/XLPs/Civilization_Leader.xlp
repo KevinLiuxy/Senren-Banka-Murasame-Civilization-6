@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="Leader"/>
+	<m_PackageName text="Civilization_Leader"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEAD_SRBK_Murasame"/>
+			<m_ObjectName text="LEAD_SRBK_Murasame"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
