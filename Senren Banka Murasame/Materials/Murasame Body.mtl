@@ -23,7 +23,7 @@
 				<m_ParamName text="Metalness"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="LEADER_MURASAME_A"/>
+				<m_ObjectName text="Murasame Body Texture"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>

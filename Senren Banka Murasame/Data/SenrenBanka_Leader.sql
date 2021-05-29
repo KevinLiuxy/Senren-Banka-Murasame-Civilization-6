@@ -12,3 +12,8 @@ VALUES ('LEADER_MURASAME', NULL, 'BACKGROUND_MURASAME_LOADING', 1);
 
 INSERT INTO DiplomacyInfo (Type, BackgroundImage)
 VALUES ('LEADER_MURASAME', 'BACKGROUND_MURASAME_INGAME');
+
+INSERT INTO LeaderQuotes (LeaderType, Quote, QuoteAudio)
+VALUES ('LEADER_MURASAME', 'LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE', 'SRBK_MS_MISC_PEP_TALK_A');
+
+--------------------------------------------------------------

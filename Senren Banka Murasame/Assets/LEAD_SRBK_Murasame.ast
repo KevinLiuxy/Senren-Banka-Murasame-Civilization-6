@@ -3498,26 +3498,30 @@
 				<m_GeoName text="LEAD_CHIN_Qin_Camera"/>
 				<m_GroupStates/>
 			</Element>
-<Element>
-<m_Name text="Armature"/>
-<m_GeoName text="Leader Murasame"/>
-<m_GroupStates>
-<Element>
-<m_Values>
-<m_Values>
-<Element class="AssetObjects:ObjectValue">
-<m_ObjectName text="Murasame Body"/>
-<m_eObjectType>MATERIAL</m_eObjectType>
-<m_ParamName text="Material"/>
-</Element>
-</m_Values>
-</m_Values>
-<m_GroupName text="Murasame Body"/>
-<m_MeshName text="Plane"/>
-<m_StateName text="Default"/>
-</Element>
-</m_GroupStates>
-</Element>
+			<Element>
+				<m_Name text="Armature"/>
+				<m_GeoName text="Leader Murasame"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Body"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Body"/>
+						<m_MeshName text="Plane"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
 			<Element>
 				<m_Name text="pCube1"/>
 				<m_GeoName text="LEAD_CHIN_Qin_ShadowBox"/>

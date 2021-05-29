@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		
+		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
+			Text="千恋万花"/>
 	</LocalizedText>
 </GameData>
