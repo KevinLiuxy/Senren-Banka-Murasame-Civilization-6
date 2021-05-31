@@ -18,7 +18,7 @@
     <AssemblyName>Senren Banka Murasame</AssemblyName>
     <RootNamespace>Senren Banka Murasame</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Config.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_FRONTEND"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Civilization.sql</File><File>Data/SenrenBanka_Leader.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP1"><File>Data/SenrenBanka_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP2"><File>Data/SenrenBanka_Expansion2.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_INGAME"><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Murasame_en_US.xml</File><File>Text/Murasame_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="SENREN_BANKA_INGAME"><File>Platforms/Windows/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/MacOS/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File><File>Platforms/MacOS/Audio/SoundbanksInfo.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Music.bnk</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Music.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Speech.bnk</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Speech.bnk</File></UpdateAudio></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Civilization.sql</File><File>Data/SenrenBanka_Leader.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP1"><File>Data/SenrenBanka_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP2"><File>Data/SenrenBanka_Expansion2.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_INGAME"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_INGAME"><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Murasame_en_US.xml</File><File>Text/Murasame_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="SENREN_BANKA_INGAME"><File>Platforms/MacOS/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Muisc.xml</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Speech.xml</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Muisc.bnk</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Speech.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Muisc.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Speech.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Muisc.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Speech.bnk</File></UpdateAudio></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -63,52 +63,58 @@
     <Content Include="Data\SenrenBanka_Leader.sql">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\139646161.wem">
+    <Content Include="Platforms\MacOS\Audio\1035388688.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\284413544.wem">
+    <Content Include="Platforms\MacOS\Audio\617521455.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\650050138.wem">
+    <Content Include="Platforms\MacOS\Audio\708328042.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\685259604.wem">
+    <Content Include="Platforms\MacOS\Audio\709692864.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Music.bnk">
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Muisc.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Muisc.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Speech.bnk">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Speech.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Platforms\MacOS\Audio\Senren_Banka_SoundBanks.ini">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\SoundbanksInfo.xml">
+    <Content Include="Platforms\Windows\Audio\1035388688.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\139646161.wem">
+    <Content Include="Platforms\Windows\Audio\617521455.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\284413544.wem">
+    <Content Include="Platforms\Windows\Audio\708328042.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\650050138.wem">
+    <Content Include="Platforms\Windows\Audio\709692864.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\685259604.wem">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Muisc.bnk">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Music.bnk">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Muisc.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Speech.bnk">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_SoundBanks.ini">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Speech.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\SoundbanksInfo.xml">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_SoundBanks.ini">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Text\Config_en_US.xml">

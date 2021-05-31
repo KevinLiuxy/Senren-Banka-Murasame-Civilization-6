@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="617521455" Language="SFX">
+			<ShortName>Atomic Era.wav</ShortName>
+			<Path>SFX\Atomic Era_52DC599B.wem</Path>
+		</File>
+		<File Id="708328042" Language="SFX">
+			<ShortName>Ancient Era.wav</ShortName>
+			<Path>SFX\Ancient Era_52DC599B.wem</Path>
+		</File>
+		<File Id="709692864" Language="SFX">
+			<ShortName>Medieval Era.wav</ShortName>
+			<Path>SFX\Medieval Era_52DC599B.wem</Path>
+		</File>
+		<File Id="1035388688" Language="SFX">
+			<ShortName>Industrial Era.wav</ShortName>
+			<Path>SFX\Industrial Era_52DC599B.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="67078863" Language="SFX">
+			<ShortName>Senren_Banka_Murasame_Speech</ShortName>
+			<Path>Senren_Banka_Murasame_Speech.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3353268601" Name="SRBK_MS_FIRST_MEET"/>
+				<Event Id="1941182488" Name="SRBK_MS_WIKI_QUOTE"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="368163111" Language="SFX">
+					<ShortName>murasame_volume.wav</ShortName>
+					<Path>SFX\murasame_volume_50328C8D.wem</Path>
+				</File>
+				<File Id="898089914" Language="SFX">
+					<ShortName>SRBK_MS_FIRST_MEET.wav</ShortName>
+					<Path>SFX\SRBK_MS_FIRST_MEET_50328C8D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2321325662" Language="SFX">
+			<ShortName>Senren_Banka_Murasame_Muisc</ShortName>
+			<Path>Senren_Banka_Murasame_Muisc.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2290212435" Name="Pause_Music_SENREN_BANKA"/>
+				<Event Id="2061530079" Name="Play_Leader_Music_SENREN_BANKA"/>
+				<Event Id="4055407737" Name="Play_Music_SENREN_BANKA"/>
+				<Event Id="815572424" Name="Resume_Music_SENREN_BANKA"/>
+				<Event Id="4234659921" Name="Start_Music_SENREN_BANKA"/>
+				<Event Id="1447451637" Name="Stop_Leader_Music_SENREN_BANKA"/>
+				<Event Id="3454254955" Name="Stop_Music_SENREN_BANKA"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="617521455"/>
+				<File Id="708328042"/>
+				<File Id="709692864"/>
+				<File Id="1035388688"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

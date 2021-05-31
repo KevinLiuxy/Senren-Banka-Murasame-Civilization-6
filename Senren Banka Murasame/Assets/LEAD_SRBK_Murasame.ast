@@ -10,7 +10,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_IDLE_A"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Idle"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Idle"/>
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_NEGATIVE_A"/>
@@ -288,7 +288,7 @@
 					<Element>
 						<m_Name text="NEUTRAL_IDLE_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Idle"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Idle"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -3517,7 +3517,493 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Murasame Body"/>
-						<m_MeshName text="Plane"/>
+						<m_MeshName text="Body 1"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Body"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Body"/>
+						<m_MeshName text="Body 2"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Body"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Body"/>
+						<m_MeshName text="Body 3"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP00"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP01"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP02"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP03"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP04"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP10"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP11"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP12"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP13"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP14"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP20"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP21"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP22"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP23"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP24"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP30"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP31"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP32"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP33"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP34"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP40"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP41"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP42"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP43"/>
+						<m_StateName text="Default"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Murasame Expression"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>false</m_bValue>
+									<m_ParamName text="RecalculateNormals"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Murasame Expression"/>
+						<m_MeshName text="EXP44"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>
