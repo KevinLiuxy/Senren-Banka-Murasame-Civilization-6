@@ -1,6 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-
+		<!--first meet-->
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MURASAME_ANY"
+			Text="初见"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MURASAME_ANY"
+			Text="请玩家去附近城市"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MURASAME_ANY"
+			Text="被玩家请去附近城市"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MURASAME_ANY"
+			Text="跟玩家交换首都信息"
+/>
+		<!--deligation-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="接受玩家使者"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="拒绝玩家使者"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MURASAME_ANY"
+			Text="请求向玩家派使者"
+/>
+		<!--friendship-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="接受宣布友好"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="拒绝宣布友好"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="向玩家宣布友好"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家接受"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家拒绝"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="向玩家宣布同盟（RaF GS 中没有）"
+/>
+		<!--denounce-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="被谴责"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="谴责玩家"
+/>
+		<!--warfare-->
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="被宣战"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MURASAME_ANY"
+			Text="宣战玩家"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY"
+			Text="被击败"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="被击败"
+/>
+		<!--agenda-->
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MURASAME_ANY"
+			Text="表扬满足议程"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_MURASAME_REASON_ANY"
+			Text="（留空）"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MURASAME_ANY"
+			Text="警告违反议程"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_MURASAME_REASON_ANY"
+			Text="（留空）"
+/>
+		<!--make deals-->
+		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家接受交易"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家拒绝交易（游戏不显示）"
+/>
+		<!--troops-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MURASAME_ANY"
+			Text="部队靠近边境"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺（宣战）"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<!--***上面这些是必要的；以下开始为可选***-->
+		<!--settling-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_MURASAME_ANY"
+			Text="警告定居太近"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="玩家拒绝承诺"
+/>
+		<!--spying-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_MURASAME_ANY"
+			Text="警告使用间谍"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="玩家拒绝承诺"
+/>
+		<!--conversion-->
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_MURASAME_ANY"
+			Text="警告转变信仰"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="玩家拒绝承诺"
+/>
 	</LocalizedText>
 </GameData>

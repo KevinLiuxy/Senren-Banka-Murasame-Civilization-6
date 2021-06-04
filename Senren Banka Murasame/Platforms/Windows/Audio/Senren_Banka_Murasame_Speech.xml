@@ -32,17 +32,57 @@
 			<ShortName>Senren_Banka_Murasame_Speech</ShortName>
 			<Path>Senren_Banka_Murasame_Speech.bnk</Path>
 			<IncludedEvents>
+				<Event Id="1222117850" Name="SRBK_MS_DECLARE_WAR_FROM_AI"/>
+				<Event Id="610164531" Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN"/>
+				<Event Id="132024156" Name="SRBK_MS_DENOUNCE_FROM_AI"/>
+				<Event Id="1124937229" Name="SRBK_MS_DENOUNCE_FROM_HUMAN"/>
 				<Event Id="3353268601" Name="SRBK_MS_FIRST_MEET"/>
+				<Event Id="180919913" Name="SRBK_MS_HAPPY_POSITIVE"/>
+				<Event Id="3488164436" Name="SRBK_MS_NEUTRAL_POSITIVE"/>
+				<Event Id="1532974644" Name="SRBK_MS_UNHAPPY_POSITIVE"/>
+				<Event Id="3128637243" Name="SRBK_MS_WARNING"/>
 				<Event Id="1941182488" Name="SRBK_MS_WIKI_QUOTE"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="136432846" Language="SFX">
+					<ShortName>SRBK_MS_HAPPY_POSITIVE.wav</ShortName>
+					<Path>SFX\SRBK_MS_HAPPY_POSITIVE_50328C8D.wem</Path>
+				</File>
+				<File Id="195724122" Language="SFX">
+					<ShortName>SRBK_MS_DECLARE_WAR_FROM_AI.wav</ShortName>
+					<Path>SFX\SRBK_MS_DECLARE_WAR_FROM_AI_50328C8D.wem</Path>
+				</File>
+				<File Id="230943431" Language="SFX">
+					<ShortName>SRBK_MS_DENOUNCE_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\SRBK_MS_DENOUNCE_FROM_HUMAN_50328C8D.wem</Path>
+				</File>
+				<File Id="250648436" Language="SFX">
+					<ShortName>SRBK_MS_UNHAPPY_POSITIVE.wav</ShortName>
+					<Path>SFX\SRBK_MS_UNHAPPY_POSITIVE_50328C8D.wem</Path>
+				</File>
 				<File Id="368163111" Language="SFX">
 					<ShortName>murasame_volume.wav</ShortName>
 					<Path>SFX\murasame_volume_50328C8D.wem</Path>
 				</File>
+				<File Id="681818249" Language="SFX">
+					<ShortName>SRBK_MS_WARNING.wav</ShortName>
+					<Path>SFX\SRBK_MS_WARNING_50328C8D.wem</Path>
+				</File>
+				<File Id="799935606" Language="SFX">
+					<ShortName>SRBK_MS_NEUTRAL_POSITIVE.wav</ShortName>
+					<Path>SFX\SRBK_MS_NEUTRAL_POSITIVE_50328C8D.wem</Path>
+				</File>
+				<File Id="834379361" Language="SFX">
+					<ShortName>SRBK_MS_DENOUNCE_FROM_AI.wav</ShortName>
+					<Path>SFX\SRBK_MS_DENOUNCE_FROM_AI_50328C8D.wem</Path>
+				</File>
 				<File Id="898089914" Language="SFX">
 					<ShortName>SRBK_MS_FIRST_MEET.wav</ShortName>
 					<Path>SFX\SRBK_MS_FIRST_MEET_50328C8D.wem</Path>
+				</File>
+				<File Id="1001836305" Language="SFX">
+					<ShortName>SRBK_MS_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\SRBK_MS_DECLARE_WAR_FROM_HUMAN_50328C8D.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -50,9 +90,9 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="2321325662" Language="SFX">
-			<ShortName>Senren_Banka_Murasame_Muisc</ShortName>
-			<Path>Senren_Banka_Murasame_Muisc.bnk</Path>
+		<SoundBank Id="1817011226" Language="SFX">
+			<ShortName>Senren_Banka_Murasame_Music</ShortName>
+			<Path>Senren_Banka_Murasame_Music.bnk</Path>
 			<IncludedEvents>
 				<Event Id="2290212435" Name="Pause_Music_SENREN_BANKA"/>
 				<Event Id="2061530079" Name="Play_Leader_Music_SENREN_BANKA"/>

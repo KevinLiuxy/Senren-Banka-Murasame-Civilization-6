@@ -9,19 +9,19 @@
 		<build>0</build>
 		<revision>0</revision>
 	</m_Version>
-	<m_fDuration>15.000001</m_fDuration>
-	<m_SourceFilePath text="F:\Leader Murasame\Murasame Neutral Idle\LEAD_SRBK_Murasame_Neutral_Idle.fbx"/>
+	<m_fDuration>7.500000</m_fDuration>
+	<m_SourceFilePath text="F:\Leader Murasame\Murasame Happy Positive\LEAD_SRBK_Murasame_Happy_Positive.fbx"/>
 	<m_SourceObjectName text="Armature"/>
 	<m_ImportedTime>0</m_ImportedTime>
-	<m_ExportedTime>2888765143</m_ExportedTime>
+	<m_ExportedTime>1801479078</m_ExportedTime>
 	<m_ClassName text="Leader"/>
 	<m_DataFiles>
 		<Element>
 			<m_ID text="GR2"/>
-			<m_RelativePath text="LEAD_SRBK_Murasame_Neutral_Idle.fgx"/>
+			<m_RelativePath text="LEAD_SRBK_Murasame_Happy_Positive.fgx"/>
 		</Element>
 	</m_DataFiles>
-	<m_Name text="LEAD_SRBK_Murasame_Neutral_Idle"/>
+	<m_Name text="LEAD_SRBK_Murasame_Happy_Positive"/>
 	<m_Description text=""/>
 	<m_Tags>
 		<Element text="Leader"/>

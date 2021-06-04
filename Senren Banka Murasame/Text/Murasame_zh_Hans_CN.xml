@@ -1,6 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-
+		<!--first meet-->
+		<!--Chapter 1-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MURASAME_ANY"
+			Text="哦？看你如此吃惊，想必是看得见本座，也能听见本作说话吧。[NEWLINE]吾名丛雨——你，就是本座的主人吗？"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MURASAME_ANY"
+			Text="请玩家去附近城市"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MURASAME_ANY"
+			Text="被玩家请去附近城市"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MURASAME_ANY"
+			Text="跟玩家交换首都信息"
+/>
+		<!--deligation-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="接受玩家使者"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="不必了，反正本座只能与特定的人对话。既然不能对话，介绍给我也只会让对方困扰……"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MURASAME_ANY"
+			Text="请求向玩家派使者"
+/>
+		<!--friendship-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="接受宣布友好"
+/>		<!--Chapter 4-2-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="等你成为对本座胃口的稳重之人了再说这话吧；少说得大本座30岁才行。"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="向玩家宣布友好"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家接受"
+/>		<!--Chapter 4-2-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="什，什么！？你打算抛弃本座吗，主人。你不想和本座一起生活吗！？"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="向玩家宣布同盟（RaF GS 中没有）"
+/>
+		<!--denounce-->
+		<!--Chapter 2-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="什么，真是失礼！这是侮辱！主人，你这是在侮辱本座！"
+/>		<!--Chapter 2-5--><!--Chapter 3-2-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="真是个混账东西！没想到主人居然随口说出这种下流的话……你这蠢蛋、憨瓜、呆皮！[NEWLINE]（谴责你）"
+/>
+		<!--warfare-->
+		<!--Chapter 1-1--><!--Chapter 2-3-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="你，你说什么？你你你你你是在愚弄本座吗？还想不想要自己的小命了，主人…"
+/>		<!--Chapter 4-4--><!--Chapter 1-1--><!--Chapter 3-3-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MURASAME_ANY"
+			Text="本作的少女心被你深深地伤害了，主人，你得负责！本作要跟你单挑！[NEWLINE]你可别嫌疼啊，主人！本座要上了！"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY"
+			Text="被击败"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="被击败"
+/>
+		<!--agenda-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MURASAME_ANY"
+			Text="表扬满足议程"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MURASAME_REASON_ANY"
+			Text=""
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MURASAME_ANY"
+			Text="你，你说什么？！除了本座之外，你还打算把大家都收进你的后宫吗，主人！现代社会可容不得你建后宫！"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MURASAME_REASON_ANY"
+			Text=""
+/>
+		<!--make deals-->
+		<!--Chapter 4-3-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_ANY"
+			Text="本座心怀对主人的感激。"
+/>		<!--Chapter 2-5-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_HAPPY"
+			Text="嗯。谢谢主人！"
+/>		<!--Chapter 4-3-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_UNHAPPY"
+			Text="那就好……"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_ANY"
+			Text="玩家拒绝交易（游戏不显示）"
+/>
+		<!--troops-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MURASAME_ANY"
+			Text="部队靠近边境"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="本座只是偶然路过，顺便来看看主人而已……完全、绝对、一丁点都没有别的想法！"
+/>		<!--Chapter 4-2-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="俗话说得好，兵贵神速嘛。"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<!--***上面这些是必要的；以下开始为可选***-->
+		<!--settling-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_MURASAME_ANY"
+			Text="警告定居太近"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="作出承诺"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>		<!--Chapter 4-3-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="不，这样做很奇怪呀，主人……"
+/>
+		<!--spying-->
+		<!--Chapter 2-1--><!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_MURASAME_ANY"
+			Text="本座觉得，你现在想掩饰也为时已晚了——[NEWLINE]别随便偷听少女的自言自语！主人，这样太没涵养了！"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="唔，被发现了啊……竟然能注意到本座的气息……"
+/>		<!--Chapter 4-2--><!--Chapter 2-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="啊？没、没有啊！用不着摆出那么恐怖的表情吧……"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="玩家拒绝承诺"
+/>
+		<!--conversion-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_MURASAME_ANY"
+			Text="警告转变信仰"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="……本作不否认；但是主人对本座太操心了，以后头发会掉的很快的哦。"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="拒绝承诺"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="玩家作出承诺"
+/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="玩家拒绝承诺"
+/>
 	</LocalizedText>
 </GameData>
