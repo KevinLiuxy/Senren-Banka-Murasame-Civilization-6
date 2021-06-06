@@ -46,10 +46,10 @@ VALUES (
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'DISTRICT_ONSEN_RESORT',
-	/* ItmIcon */ 'ICON_DISTRICT_ONSEN_RESORT',
-	/* ItmName */ 'LOC_DISTRICT_ONSEN_RESORT_NAME',
-	/* Dscrptn */ 'LOC_DISTRICT_ONSEN_RESORT_DESCRIPTION_GS',
+	/* ItmType */ 'DISTRICT_ONSEN_TOWN',
+	/* ItmIcon */ 'ICON_DISTRICT_ONSEN_TOWN',
+	/* ItmName */ 'LOC_DISTRICT_ONSEN_TOWN_NAME',
+	/* Dscrptn */ 'LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS',
 	/* SortIdx */ 20
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',

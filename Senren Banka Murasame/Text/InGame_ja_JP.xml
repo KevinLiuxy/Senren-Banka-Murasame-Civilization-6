@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--City Names-->
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_1"  Text="穗織"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_2"  Text="别府"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_3"  Text="熊本"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_4"  Text="二条"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_5"  Text="草津"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_6"  Text="登别"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_7"  Text="黒川"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_8"  Text="奈良"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_9"  Text="道後"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_10" Text="江戸"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_11" Text="箱根"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_12" Text="由布院"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_13" Text="城崎"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_14" Text="指宿"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_15" Text="松本"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_16" Text="長篠"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_17" Text="下呂"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_18" Text="安土"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_19" Text="金沢"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_20" Text="富良野"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_21" Text="小田原"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_22" Text="銀山"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_23" Text="渋谷"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_24" Text="佐賀"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_25" Text="有馬"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_26" Text="鳥栖"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_27" Text="月山富田"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_28" Text="松山"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_29" Text="松江"/>
+		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
+
+		<!--Gameplay-->
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE2"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE2}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE3"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE3}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE4"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE4}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE5"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE5}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH1"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH2"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH2}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH3"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH3}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH4"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH4}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH5"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH5}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE1"
+			Text="隣接する山岳タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE2"
+			Text="隣接する山岳タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE3"
+			Text="隣接する山岳タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE4"
+			Text="隣接する山岳タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE5"
+			Text="隣接する山岳タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_FOREST_SCIENCE"
+			Text="隣接する森タイルにより [ICON_Science] 科学力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_FOREST_FAITH"
+			Text="隣接する森タイルにより [ICON_Faith] 信仰力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_FOREST_CULTURE"
+			Text="隣接する森タイルにより [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_GOLD"
+			Text="隣接する火山性土により [ICON_Gold] ゴールド+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_FAITH"
+			Text="隣接する火山性土により [ICON_Faith] 信仰力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_CULTURE"
+			Text="隣接する火山性土により [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_GOLD"
+			Text="隣接する地熱孔により [ICON_Gold] ゴールド+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_FAITH"
+			Text="隣接する地熱孔により [ICON_Faith] 信仰力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_CULTURE"
+			Text="隣接する地熱孔により [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<!--Civilopedia-->
+		<Row Language="ja_JP" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
+			Text="千恋万花"/>
+	</LocalizedText>
+</GameData>

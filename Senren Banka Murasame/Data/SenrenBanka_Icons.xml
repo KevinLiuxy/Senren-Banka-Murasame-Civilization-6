@@ -22,10 +22,20 @@
 		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_48.dds"/>
 		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_45.dds"/>
 		<Row Name="ICON_ATLAS_LEADER_MURASAME" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_MURASAME_32.dds"/>
+		
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_256.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_128.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_80.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_50.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_38.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_32.dds"/>
 	</IconTextureAtlases>
 
 	<IconDefinitions>
 		<Row Name="ICON_CIVILIZATION_SENREN_BANKA" Atlas="ICON_ATLAS_CIVILIZATION_SENREN_BANKA" index="0"/>
 		<Row Name="ICON_LEADER_MURASAME" Atlas="ICON_ATLAS_LEADER_MURASAME" index="0"/>
+		<Row Name="ICON_DISTRICT_ONSEN_TOWN" Atlas="ICON_ATLAS_DISTRICT_ONSEN_TOWN" index="0"/>
+		<Row Name="ICON_PROJECT_GOSHINTO_A" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
+		<Row Name="ICON_PROJECT_GOSHINTO_B" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
 	</IconDefinitions>
 </GameData>

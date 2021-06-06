@@ -97,6 +97,30 @@
 			<m_EntryID text="BACKGROUND_MURASAME_LOADING"/>
 			<m_ObjectName text="BACKGROUND_MURASAME_LOADING"/>
 		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_128"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_256"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_32"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_38"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_50"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DISTRICT_ONSEN_TOWN_80"/>
+			<m_ObjectName text="DISTRICT_ONSEN_TOWN_80"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
