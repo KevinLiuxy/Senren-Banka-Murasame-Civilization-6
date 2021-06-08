@@ -8,40 +8,6 @@
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_SENREN_BANKA_ADJECTIVE"
 			Text="Senren Banka"/>
 
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
-			Text="Heirs of the Zephyr"/>
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
-			Text="人口小于 10 的城市 +1 魅力，+1 [ICON_Amenities] 宜居度，+15% [ICON_Faith] 信仰值；城市到达 7 点人口后 -75% 人口增长速度。[NEWLINE]圣地、学院、剧院广场、商业中心从森林和雨林单元格中额外获得标准相邻加成。"/>
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
-			Text="人口小于 10 的城市 +1 魅力，+1 [ICON_Amenities] 宜居度，+15% [ICON_Faith] 信仰值；城市到达 7 点人口后 -75% 人口增长速度。[NEWLINE]圣地、学院、剧院广场从森林单元格中额外获得标准相邻加成；圣地、剧院广场、商业中心从火山土和地热裂缝单元格中获得大量相邻加成。"/>
-
-		<Row Language="en_US" Tag="LOC_LEADER_MURASAME_NAME"
-			Text="Murasame"/>
-		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MURASAME_NAME"
-			Text="Guardian of Hori"/>
-		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MURASAME_DESCRIPTION"
-			Text="被宣战后的10回合内可用信仰值购买军事单位，且花费减半。单位在拥有圣地的己方城市内作战时 +5 [ICON_Strength] 战斗力。[NEWLINE]购买山脉或森林单元格的花费 -80%，但砍伐森林的收益 -80%。"/>
-
-		<Row Language="en_US" Tag="LOC_DISTRICT_ONSEN_TOWN_NAME"
-			Text="Onsen Town"/>
-		<Row Language="en_US" Tag="LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION"
-			Text="千恋万花特色区域，替代水渠，建造费用更低。与山脉单元格相邻时 +1 [ICON_Amenities] 宜居度、城市 +10% [ICON_Tourism] 旅游业绩。"/>
-		<Row Language="en_US" Tag="LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
-			Text="千恋万花特色区域，替代水渠，建造费用更低。从每个相邻的火山和地热裂缝单元格中额外获得 +1 [ICON_Amenities] 宜居度、城市 +10% [ICON_Tourism] 旅游业绩。"/>
-
-		<Row Language="en_US" Tag="LOC_BUILDING_KANMIDOKORO_NAME"
-			Text="Kanmidokoro"/>
-		<Row Language="en_US" Tag="LOC_BUILDING_KANMIDOKORO_DESCRIPTION"
-			Text="千恋万花特色建筑，额外提供 +2 [ICON_Culture] 文化值 +1 [ICON_Food] 食物。解锁“飞行”后 +2 [ICON_Tourism] 旅游业绩。[NEWLINE][NEWLINE]"/>
-
-		<Row Language="en_US" Tag="LOC_PROJECT_GOSHINTO_A_NAME_FRONTEND"
-			Text="Project: Goshinto ?"/>
-		<Row Language="en_US" Tag="LOC_PROJECT_GOSHINTO_A_DESCRIPTION"
-			Text="解锁“神学”后可在拥有神社的城市进行，完成后提供 [ICON_GreatWork_Relic] 巨作“丛雨丸”，并免费获得 1 个带有升级的武士单位。"/>
-
-		<Row Language="en_US" Tag="LOC_PROJECT_GOSHINTO_B_NAME_FRONTEND"
-			Text="Project: Goshinto Festival"/>
-		<Row Language="en_US" Tag="LOC_PROJECT_GOSHINTO_B_DESCRIPTION"
-			Text="解锁“文化遗产”后可在拥有丛雨丸的城市进行，该城市每回合 [ICON_Faith] 信仰值和 [ICON_Culture] 文化值 +50%，完成后提供大量 [ICON_Gold] 金币和 [ICON_Tourism] 旅游业绩。"/>
+		
 	</LocalizedText>
 </GameData>

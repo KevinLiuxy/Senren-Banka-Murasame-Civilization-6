@@ -1,5 +1,14 @@
-INSERT INTO StartBiasFeatures (CivilizationType, FeatureType, Tier)
-VALUES ('CIVILIZATION_SENREN_BANKA', 'FEATURE_GEOTHERMAL_FISSURE', 1);
+UPDATE Traits SET Description = 'LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS'
+WHERE TraitType = 'TRAIT_CIVILIZATION_SENREN_BANKA';
+
+UPDATE Traits SET Description = 'LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS'
+WHERE TraitType = 'TRAIT_LEADER_GUARDIAN_OF_HOORI';
+
+UPDATE Traits SET Description = 'LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS'
+WHERE TraitType = 'TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN';
+
+UPDATE Districts SET Description = 'LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS'
+WHERE DistrictType = 'DISTRICT_ONSEN_TOWN';
 
 INSERT INTO TraitModifiers (TraitType, ModifierId)
 VALUES	('TRAIT_CIVILIZATION_SENREN_BANKA',	'TRAIT_SENREN_BANKA_COMMERCIAL_VOLCANIC_SOIL_ADJACENCY'	),
@@ -9,8 +18,24 @@ VALUES	('TRAIT_CIVILIZATION_SENREN_BANKA',	'TRAIT_SENREN_BANKA_COMMERCIAL_VOLCAN
 		('TRAIT_CIVILIZATION_SENREN_BANKA',	'TRAIT_SENREN_BANKA_HOLYSITE_GEOTHERMAL_ADJACENCY'		),
 		('TRAIT_CIVILIZATION_SENREN_BANKA',	'TRAIT_SENREN_BANKA_THEATER_GEOTHERMAL_ADJACENCY'		);
 
+INSERT INTO Districts_XP2 (DistrictType, PreventsDrought)
+VALUES ('DISTRICT_ONSEN_TOWN', 1);
+
+INSERT INTO Adjacency_YieldChanges (ID, Description, YieldType, YieldChange, TilesRequired, AdjacentDistrict)
+SELECT
+	'OnsenTown_Production',
+	Description, YieldType, YieldChange, TilesRequired,
+	'DISTRICT_ONSEN_TOWN'
+FROM Adjacency_YieldChanges WHERE ID = 'Aqueduct_Production';
+
+INSERT INTO District_BuildChargeProductions (DistrictType, UnitType, PercentProductionPerCharge)
+VALUES ('DISTRICT_ONSEN_TOWN', 'UNIT_MILITARY_ENGINEER', 20);
+
+INSERT INTO StartBiasFeatures (CivilizationType, FeatureType, Tier)
+VALUES ('CIVILIZATION_SENREN_BANKA', 'FEATURE_GEOTHERMAL_FISSURE', 1);
+
 INSERT INTO AiFavoredItems (ListType, Item, Favored)
-VALUES	('MurasameWonders', 'BUILDING_GREAT_BATH', 1);
+VALUES ('MurasameWonders', 'BUILDING_GREAT_BATH', 1);
 
 --------------------------------------------------------------
 INSERT INTO Modifiers (ModifierId, ModifierType, SubjectRequirementSetId)

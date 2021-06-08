@@ -31,6 +31,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
@@ -72,6 +73,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
@@ -85,6 +87,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
@@ -201,6 +204,7 @@
       <consumerName text="VFX"/>
       <relativeArtDefPaths>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
@@ -292,6 +296,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
@@ -302,6 +307,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
@@ -312,6 +318,7 @@
       <relativeArtDefPaths>
 	      <Element text="Civilization.artdef"/>
 	      <Element text="Culture.artdef"/>
+	      <Element text="District.artdef"/>
 	      <Element text="Landmarks.artdef"/>
 	      <Element text="Leader.artdef"/>
       </relativeArtDefPaths>

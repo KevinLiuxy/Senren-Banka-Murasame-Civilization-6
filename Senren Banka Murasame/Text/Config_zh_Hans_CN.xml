@@ -11,23 +11,27 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
 			Text="世外和风"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
-			Text="城市到达 7 人口后增长速度 -75%，人口数量小于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值；圣地、学院、剧院广场从森林和山脉单元格中额外获得少量相邻加成。"/>
+			Text="城市到达 7 人口后增长速度 -80%。[NEWLINE]人口数量小于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值；圣地、学院、剧院广场从森林和山脉单元格中额外获得少量相邻加成。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
-			Text="城市到达 7 人口后增长速度 -75%，人口数量小于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值；圣地、学院、剧院广场从森林和山脉单元格中额外获得少量相邻加成；圣地、剧院广场、商业中心从相邻的火山土和地热裂缝获得大量相邻加成。"/>
+			Text="城市到达 7 人口后增长速度 -80%。[NEWLINE]人口数量小于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值；圣地、学院、剧院广场从森林和山脉单元格中额外获得少量相邻加成；圣地、剧院广场、商业中心从相邻的火山土和地热裂缝获得大量相邻加成。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MURASAME_NAME"
 			Text="丛雨"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MURASAME_NAME"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_NAME"
 			Text="穗织的守护神"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MURASAME_DESCRIPTION"
-			Text="被宣战后的10回合内可用 [ICON_Faith] 信仰值购买军事单位，且花费减半。单位在拥有圣地的己方城市作战时 +7 [ICON_Strength] 战斗力，在拥有温泉镇的己方城市内 +10 回复。[NEWLINE][NEWLINE]购买山脉或森林单元格的花费 -60%，但砍伐森林的收益 -40%。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION"
+			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -30%。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_RNF"
+			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在拥有圣地的己方城市作战时 +7 [ICON_Strength] 战斗力，在温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -40%，但砍伐森林与收获资源的收益 -40%。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS"
+			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在拥有圣地的己方城市作战时 +7 [ICON_Strength] 战斗力，在领土内地热裂缝或温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -40%，但砍伐森林与收获资源的收益 -40%。"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_ONSEN_TOWN_NAME"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME"
 			Text="温泉镇"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION"
 			Text="千恋万花特色区域，替代水渠，建造费用更低。与山脉单元格相邻时 +1 [ICON_Amenities] 宜居度、城市 +10% [ICON_Tourism] 旅游业绩。"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
-			Text="千恋万花特色区域，替代水渠，建造费用更低。从每个相邻的火山和地热裂缝单元格中额外获得 +1 [ICON_Amenities] 宜居度、城市 +10% [ICON_Tourism] 旅游业绩。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
+			Text="千恋万花特色区域，替代水渠，建造费用更低。与火山、火山土、或地热裂缝单元格相邻时额外获得 +1 [ICON_Amenities] 宜居度、城市 +10% [ICON_Tourism] 旅游业绩。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KANMIDOKORO_NAME"
 			Text="田心屋"/>
