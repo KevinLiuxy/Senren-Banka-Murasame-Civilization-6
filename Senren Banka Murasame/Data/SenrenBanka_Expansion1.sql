@@ -39,7 +39,7 @@ VALUES (
 INSERT INTO ModifierArguments (ModifierId, Name, Value)
 VALUES	('MURASAME_ADJUST_CITY_COMBAT_BONUS',	'Amount',	7	),
 		('MURASAME_PLOT_PURCHASE_COST_RNF',		'Amount',	-10	),
-		('MURASAME_HARVEST_YIELDS_DEBUFF',		'Amount',	-40	);
+		('MURASAME_HARVEST_YIELDS_DEBUFF',		'Amount',	-60	);
 
 INSERT INTO AiFavoredItems (ListType, Item, Favored)
 VALUES ('MurasameWonders', 'BUILDING_KOTOKU_IN', 1);
