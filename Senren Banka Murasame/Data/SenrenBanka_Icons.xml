@@ -29,6 +29,11 @@
 		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_50.dds"/>
 		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_38.dds"/>
 		<Row Name="ICON_ATLAS_DISTRICT_ONSEN_TOWN" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="DISTRICT_ONSEN_TOWN_32.dds"/>
+
+		<Row Name="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="IMPROVEMENT_KANMIDOKORO_256.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="IMPROVEMENT_KANMIDOKORO_80.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="IMPROVEMENT_KANMIDOKORO_50.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="IMPROVEMENT_KANMIDOKORO_38.dds"/>
 	</IconTextureAtlases>
 
 	<IconDefinitions>
@@ -36,6 +41,7 @@
 		<Row Name="ICON_LEADER_MURASAME" Atlas="ICON_ATLAS_LEADER_MURASAME" index="0"/>
 		<Row Name="ICON_DISTRICT_ONSEN_TOWN" Atlas="ICON_ATLAS_DISTRICT_ONSEN_TOWN" index="0"/>
 		<Row Name="DISTRICT_ONSEN_TOWN" Atlas="ICON_ATLAS_FONT_ICON_BASELINE_4" Index="183"/>
+		<Row Name="ICON_IMPROVEMENT_KANMIDOKORO" Atlas="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" index="0"/>
 		<Row Name="ICON_PROJECT_GOSHINTO_A" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
 		<Row Name="ICON_PROJECT_GOSHINTO_B" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
 	</IconDefinitions>

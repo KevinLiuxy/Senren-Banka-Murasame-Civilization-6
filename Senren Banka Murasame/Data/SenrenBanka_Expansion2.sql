@@ -32,14 +32,15 @@ INSERT INTO District_Adjacencies (DistrictType, YieldChangeId)
 VALUES ('DISTRICT_INDUSTRIAL_ZONE', 'OnsenTown_Production');
 
 INSERT INTO Adjacency_YieldChanges (ID, Description, YieldType, YieldChange, TilesRequired, AdjacentDistrict)
-SELECT
-	'OnsenTown_Production',
-	Description, YieldType, YieldChange, TilesRequired,
-	'DISTRICT_ONSEN_TOWN'
-FROM Adjacency_YieldChanges WHERE ID = 'Aqueduct_Production';
+VALUES ('OnsenTown_Production', 'LOC_DISTRICT_AQUEDUCT_PRODUCTION', 'YIELD_PRODUCTION', 2, 1, 'DISTRICT_ONSEN_TOWN');
 
 INSERT INTO District_BuildChargeProductions (DistrictType, UnitType, PercentProductionPerCharge)
 VALUES ('DISTRICT_ONSEN_TOWN', 'UNIT_MILITARY_ENGINEER', 20);
+
+INSERT INTO Improvement_ValidFeatures (ImprovementType, FeatureType)
+VALUES	('IMPROVEMENT_KANMIDOKORO',	'FEATURE_FLOODPLAINS_GRASSLAND'	),
+		('IMPROVEMENT_KANMIDOKORO',	'FEATURE_FLOODPLAINS_PLAINS'	),
+		('IMPROVEMENT_KANMIDOKORO',	'FEATURE_VOLCANIC_SOIL'			);
 
 INSERT INTO StartBiasFeatures (CivilizationType, FeatureType, Tier)
 VALUES ('CIVILIZATION_SENREN_BANKA', 'FEATURE_GEOTHERMAL_FISSURE', 1);

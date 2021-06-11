@@ -31,12 +31,12 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION"
 			Text="千恋万花特色区域，替代水渠，建造费用更低。与山脉单元格相邻时 +1 [ICON_Amenities] 宜居度、城市 +25% [ICON_Tourism] 旅游业绩。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
-			Text="千恋万花特色区域，替代水渠，建造费用更低。地热裂缝 +3 [ICON_Culture] 文化值。[NEWLINE]与火山、火山土、或地热裂缝单元格相邻时获得 +1 [ICON_Amenities] 宜居度、城市 +25% [ICON_Tourism] 旅游业绩。"/>
+			Text="千恋万花特色区域，替代水渠，建造费用更低。此城地热裂缝 +3 [ICON_Culture] 文化值。[NEWLINE]与火山、火山土、或地热裂缝单元格相邻时获得 +1 [ICON_Amenities] 宜居度、城市 +25% [ICON_Tourism] 旅游业绩。"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KANMIDOKORO_NAME"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME"
 			Text="田心屋"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KANMIDOKORO_DESCRIPTION"
-			Text="千恋万花特色建筑，额外提供 +2 [ICON_Culture] 文化值 +1 [ICON_Food] 食物。解锁“飞行”后 +2 [ICON_Tourism] 旅游业绩。[NEWLINE][NEWLINE]"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
+			Text="解锁建造者建造千恋万花特色建筑田心屋的能力。[NEWLINE][NEWLINE]+1 金币 [ICON_Gold]、+1 [ICON_Culture] 文化值、+1 魅力。从每种相邻的学院、剧院广场、圣地、商业中心建筑分别获得 +1 [ICON_Science] 科技 [ICON_Culture] 文化 [ICON_Faith] 信仰和 [ICON_Gold] 金币。每个城市仅限建造一座，田心屋所在的单元格无法被替换更改。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PROJECT_GOSHINTO_A_NAME_FRONTEND"
 			Text="项目：御神刀祈愿"/>

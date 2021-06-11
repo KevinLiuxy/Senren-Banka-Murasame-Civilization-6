@@ -87,29 +87,11 @@ VALUES (
 	/* Domain  */ 'Players:StandardPlayers',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'BUILDING_KANMIDOKORO',
-	/* ItmIcon */ 'ICON_BUILDING_KANMIDOKORO',
-	/* ItmName */ 'LOC_BUILDING_KANMIDOKORO_NAME',
-	/* Dscrptn */ 'LOC_BUILDING_KANMIDOKORO_DESCRIPTION',
+	/* ItmType */ 'IMPROVEMENT_KANMIDOKORO',
+	/* ItmIcon */ 'ICON_IMPROVEMENT_KANMIDOKORO',
+	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME',
+	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION',
 	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:StandardPlayers',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_A',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_A',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_A_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_A_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:StandardPlayers',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_B',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_B',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_B_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_B_DESCRIPTION',
-	/* SortIdx */ 50
 ),(
 	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -132,29 +114,11 @@ VALUES (
 	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'BUILDING_KANMIDOKORO',
-	/* ItmIcon */ 'ICON_BUILDING_KANMIDOKORO',
-	/* ItmName */ 'LOC_BUILDING_KANMIDOKORO_NAME',
-	/* Dscrptn */ 'LOC_BUILDING_KANMIDOKORO_DESCRIPTION',
+	/* ItmType */ 'IMPROVEMENT_KANMIDOKORO',
+	/* ItmIcon */ 'ICON_IMPROVEMENT_KANMIDOKORO',
+	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME',
+	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION',
 	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion1_Players',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_A',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_A',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_A_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_A_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:Expansion1_Players',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_B',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_B',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_B_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_B_DESCRIPTION',
-	/* SortIdx */ 50
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -177,27 +141,9 @@ VALUES (
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'BUILDING_KANMIDOKORO',
-	/* ItmIcon */ 'ICON_BUILDING_KANMIDOKORO',
-	/* ItmName */ 'LOC_BUILDING_KANMIDOKORO_NAME',
-	/* Dscrptn */ 'LOC_BUILDING_KANMIDOKORO_DESCRIPTION',
+	/* ItmType */ 'IMPROVEMENT_KANMIDOKORO',
+	/* ItmIcon */ 'ICON_IMPROVEMENT_KANMIDOKORO',
+	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME',
+	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION',
 	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_A',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_A',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_A_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_A_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'PROJECT_GOSHINTO_B',
-	/* ItmIcon */ 'ICON_PROJECT_GOSHINTO_B',
-	/* ItmName */ 'LOC_PROJECT_GOSHINTO_B_NAME_FRONTEND',
-	/* Dscrptn */ 'LOC_PROJECT_GOSHINTO_B_DESCRIPTION',
-	/* SortIdx */ 50
 );
