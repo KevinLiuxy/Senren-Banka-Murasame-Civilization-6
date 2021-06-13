@@ -14,11 +14,11 @@
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_NEGATIVE_A"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_NEGATIVE_B"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_POSITIVE_A"/>
@@ -34,11 +34,11 @@
 					</Element>
 					<Element>
 						<m_SlotName text="HAPPY_NEGATIVE_A"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Happy_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Happy_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="HAPPY_NEGATIVE_B"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Happy_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Happy_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="HAPPY_POSITIVE_A"/>
@@ -50,11 +50,11 @@
 					</Element>
 					<Element>
 						<m_SlotName text="UNHAPPY_NEGATIVE_A"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Unhappy_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="UNHAPPY_NEGATIVE_B"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Unhappy_Negative"/>
 					</Element>
 					<Element>
 						<m_SlotName text="UNHAPPY_POSITIVE_A"/>
@@ -78,7 +78,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="04_KUDOS"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Kudos"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Kudo"/>
 					</Element>
 					<Element>
 						<m_SlotName text="05_WARNING"/>
@@ -102,7 +102,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_TO_HAPPY"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Trans_Happy"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Trans_Happy"/>
 					</Element>
 					<Element>
 						<m_SlotName text="NEUTRAL_TO_UNHAPPY"/>
@@ -118,7 +118,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="UNHAPPY_TO_NEUTRAL"/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Trans_Neutral"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Trans_Neutral"/>
 					</Element>
 				</m_Bindings>
 			</m_animationBindings>
@@ -419,59 +419,22 @@
 					<Element>
 						<m_Name text="NEUTRAL_NEGATIVE_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="117"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.370892</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="118"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.511627</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="119"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.154893</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="182"/>
 								<m_Description text=""/>
-								<m_FXName text="CHIN_QS_NeutralNegative_Sigh"/>
+								<m_FXName text="SRBK_MS_NEUTRAL_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.326087</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
+								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -501,92 +464,22 @@
 					<Element>
 						<m_Name text="NEUTRAL_NEGATIVE_B"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Neutral_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="120"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.267606</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="121"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.868545</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="122"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.769953</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="123"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.239437</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="124"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.492958</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="177"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.749007</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="179"/>
 								<m_Description text=""/>
-								<m_FXName text="CHIN_QS_NeutralNegativeB"/>
+								<m_FXName text="SRBK_MS_NEUTRAL_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.667338</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
+								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -606,10 +499,6 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 							<Element>
 								<m_Name text="Sound"/>
@@ -710,63 +599,19 @@
 					<Element>
 						<m_Name text="HAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Happy_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Happy_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
 								<m_Name text="82"/>
 								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
+								<m_FXName text="SRBK_MS_HAPPY_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.150235</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="83"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.309859</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="84"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.751174</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="85"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.525822</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="86"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.415237</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
@@ -793,102 +638,28 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 						</m_Tracks>
 					</Element>
 					<Element>
 						<m_Name text="HAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Happy_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Happy_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="87"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.046948</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="88"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.342723</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="89"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.953051</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="90"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.821597</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="91"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.220657</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="92"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.840229</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="178"/>
 								<m_Description text=""/>
-								<m_FXName text="CHIN_QS_HappyNegative_Laugh"/>
+								<m_FXName text="SRBK_MS_HAPPY_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.644445</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
+								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -908,10 +679,6 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 							<Element>
 								<m_Name text="Sound"/>
@@ -1012,59 +779,22 @@
 					<Element>
 						<m_Name text="UNHAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Negative_A"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Unhappy_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="151"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.962441</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="152"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.206573</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="153"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.995305</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="185"/>
 								<m_Description text=""/>
-								<m_FXName text="CHIN_QS_UnhappyNegativeA"/>
+								<m_FXName text="SRBK_MS_UNHAPPY_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.647887</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
+								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -1094,81 +824,22 @@
 					<Element>
 						<m_Name text="UNHAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Negative_B"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Unhappy_Negative"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="154"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.366197</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="155"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Light_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.084507</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="156"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.370892</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="157"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.845070</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="158"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.572770</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="186"/>
 								<m_Description text=""/>
-								<m_FXName text="CHIN_QS_UnhappyNegativeA"/>
+								<m_FXName text="SRBK_MS_UNHAPPY_NEGATIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.164319</m_fStartTime>
+								<m_fStartTime>3.000000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
+								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -1188,10 +859,6 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 							<Element>
 								<m_Name text="Sound"/>
@@ -1390,147 +1057,22 @@
 					<Element>
 						<m_Name text="04_KUDOS"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Kudos"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Kudo"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="4"/>
+								<m_Name text="57"/>
 								<m_Description text=""/>
-								<m_FXName text="Play_CHIN_QS_KUDOS_A_2"/>
+								<m_FXName text="SRBK_MS_KUDO"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.631698</m_fStartTime>
+								<m_fStartTime>0.250000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="55"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Scratch_Skin_VeryShort"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.248619</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="56"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.635359</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="57"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.654696</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="58"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.361878</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="59"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>4.164364</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="60"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>5.366369</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="61"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>6.274821</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="62"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.359116</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="63"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>4.099404</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="64"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>5.352728</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="65"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>6.195313</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>2</m_nTrackIndex>
-							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>
@@ -1550,10 +1092,6 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 							<Element>
 								<m_Name text="Sound"/>
@@ -1805,63 +1343,19 @@
 					<Element>
 						<m_Name text="NEUTRAL_TO_HAPPY"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Neutral_Trans_Happy"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Trans_Happy"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
 								<m_Name text="137"/>
 								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
+								<m_FXName text="SRBK_MS_DECLARE_FRIEND"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.239437</m_fStartTime>
+								<m_fStartTime>0.250000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="138"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.445313</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="139"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Sword_Handling"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.446009</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="140"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.225352</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="141"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.507042</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
@@ -1888,10 +1382,6 @@
 							<Element>
 								<m_Name text="Light"/>
 								<m_Type>LIGHT</m_Type>
-							</Element>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
 							</Element>
 						</m_Tracks>
 					</Element>
@@ -2141,92 +1631,22 @@
 					<Element>
 						<m_Name text="UNHAPPY_TO_NEUTRAL"/>
 						<m_Description text=""/>
-						<m_AnimationName text="LEAD_CHIN_Qin_Unhappy_Trans_Neutral"/>
+						<m_AnimationName text="LEAD_SRBK_Murasame_Trans_Neutral"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
-								<m_Name text="169"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.586854</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="170"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Medium"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>0.629108</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="171"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Sword_Handling"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.347421</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
 								<m_Name text="172"/>
 								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Cloth_Silkier_Short"/>
+								<m_FXName text="SRBK_MS_MAKE_PEACE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.009390</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="173"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Sword_Handling"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.014087</m_fStartTime>
+								<m_fStartTime>0.250000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="174"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.056338</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
-							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="175"/>
-								<m_Description text=""/>
-								<m_FXName text="Leader_Foley_Beads_Qin_Short"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>2.619560</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>1</m_nTrackIndex>
 							</Element>
 						</m_Triggers>
 						<m_Tracks>
-							<Element>
-								<m_Name text="Sound"/>
-								<m_Type>SOUND</m_Type>
-							</Element>
 							<Element>
 								<m_Name text="Asset VFX"/>
 								<m_Type>ASSET_FX</m_Type>

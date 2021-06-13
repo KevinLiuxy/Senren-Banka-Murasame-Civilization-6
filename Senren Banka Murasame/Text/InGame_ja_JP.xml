@@ -87,9 +87,5 @@
 			Text="隣接する地熱孔により [ICON_Faith] 信仰力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
 		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_CULTURE"
 			Text="隣接する地熱孔により [ICON_Culture] 文化力+{1_num}。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
-
-		<!--Civilopedia-->
-		<Row Language="ja_JP" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
-			Text="千恋万花"/>
 	</LocalizedText>
 </GameData>

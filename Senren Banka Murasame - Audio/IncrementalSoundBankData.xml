@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="4" Flags="601859981">
+	<Platform GUID="{CB0B5495-4231-4AEA-82CE-E36838DA0641}">
+		<Language ID="0">
+			<Bank Name="Init" Hash="1339071225" StreamHash="157587662" Timestamp="132680968804923523"/>
+			<Bank Name="Senren_Banka_Murasame_Muisc" Hash="876634313" StreamHash="1028594003" Timestamp="132668698980814733"/>
+			<Bank Name="Senren_Banka_Murasame_Music" Hash="3357597944" StreamHash="2483203819" Timestamp="132679470568512634"/>
+			<Bank Name="Senren_Banka_Murasame_Speech" Hash="2262141664" StreamHash="157587662" Timestamp="132680968804823432"/>
+		</Language>
+	</Platform>
+	<Platform GUID="{176B10C2-D443-4660-91D7-359271F7D391}">
+		<Language ID="0">
+			<Bank Name="Init" Hash="4258004094" StreamHash="157587662" Timestamp="132680968764847106"/>
+			<Bank Name="Senren_Banka_Murasame_Muisc" Hash="876634313" StreamHash="1028594003" Timestamp="132668698976861137"/>
+			<Bank Name="Senren_Banka_Murasame_Music" Hash="3357597944" StreamHash="2483203819" Timestamp="132679470565199625"/>
+			<Bank Name="Senren_Banka_Murasame_Speech" Hash="2262141664" StreamHash="157587662" Timestamp="132680968764747012"/>
+		</Language>
+	</Platform>
+</IncrementalBankBuild>

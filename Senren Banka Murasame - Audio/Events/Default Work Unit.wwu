@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DDF60FFE-BB49-4D50-88AB-076003507783}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{DDF60FFE-BB49-4D50-88AB-076003507783}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="SRBK_MS_WIKI_QUOTE" ID="{0D14064F-5EB0-4BF1-ABC6-EC379B0C7027}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B2FC8F89-B8EE-4B43-A025-19050F80B3B6}" ShortID="672131465" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0D6436AA-A2EE-4425-98B2-11A958FD0CA4}" Global="false">
+									<ObjectRef Name="SRBK_MS_WIKI_QUOTE" ID="{D701DC4A-E2C2-45BD-BD74-D6AFC64EEB4E}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_FIRST_MEET" ID="{46E2C6F5-D374-42BC-9581-684DF7007854}">
+					<ChildrenList>
+						<Action Name="Play" ID="{733BE806-4973-48D1-9B85-A76A61072365}" ShortID="715814709" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{20342CDB-4D14-4993-BA7C-1BFBD3B35652}" Global="false">
+									<ObjectRef Name="SRBK_MS_FIRST_MEET" ID="{25F2D2A2-D766-4427-A4C0-04A4692DBFBF}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{4E62EE6D-EA77-4C33-9B24-399AC02DA156}">
+					<ChildrenList>
+						<Action Name="Play" ID="{42260E2D-9D93-40AD-AE75-8A2793F084E1}" ShortID="131487868" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F6789E1D-F806-4887-817B-8189AF8D4ABE}" Global="false">
+									<ObjectRef Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{ED530415-0548-4C13-A543-F0AE03166175}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{8B5B9FD2-74DD-4AC9-B43B-0DB3C8188CF2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{459D1E4F-552E-42EB-991D-0AC941CEF0F5}" ShortID="849104862" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A6F4BEA9-5101-43F1-9503-F6102EA7780B}" Global="false">
+									<ObjectRef Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{01C0A1AD-0416-4BEC-BA0A-359CACAB66A2}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{9D0EF93C-88A6-4175-BF01-EDCEAB595F63}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9366C52C-066A-4B77-A578-8080484778F0}" ShortID="314778542" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{98A3D961-B52D-4CFC-A82E-7479114606D8}" Global="false">
+									<ObjectRef Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{477437FB-DF48-447E-A91B-40C6F8BD8D0A}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{B65183E9-373C-4187-9D2F-CF66EF73CE43}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CEC53337-CF36-4344-9D7B-5D8E5A611422}" ShortID="785649619" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A8318D63-9B92-4DBB-B456-191A0E1311E3}" Global="false">
+									<ObjectRef Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{CDD91066-5DA7-4FBD-B865-D2EA87C17248}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_HAPPY_POSITIVE" ID="{78F282F8-2B45-4E32-8473-76BFA7E17E46}">
+					<ChildrenList>
+						<Action Name="Play" ID="{618628F3-09D7-444E-A144-E2113F60A451}" ShortID="930467993" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F972BEA0-566A-4029-96B1-E14AC04044F9}" Global="false">
+									<ObjectRef Name="SRBK_MS_HAPPY_POSITIVE" ID="{029E10DA-9584-4444-9147-DE10E1E9246A}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{6D1DBF6F-2EE5-4502-A186-B5DFB77B0495}">
+					<ChildrenList>
+						<Action Name="Play" ID="{E8A38D99-38EE-4C76-8CC2-8125B6E12568}" ShortID="563006142" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{A7B7002F-3A86-4C42-B73B-0E003F023EBE}" Global="false">
+									<ObjectRef Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{4D1ECF32-24F9-44E6-A6DD-1170F0108A40}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{B7D417AC-79E5-4BC2-9632-AAE599CEF4D5}">
+					<ChildrenList>
+						<Action Name="Play" ID="{528E66E5-B64F-42D1-B3EF-911D63C1090C}" ShortID="212724506" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6DC47C64-C4B8-41A1-991F-0BEDDB50B6F0}" Global="false">
+									<ObjectRef Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{DFB780C4-242F-43B8-BB5E-0400634EB2FF}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_WARNING" ID="{3A6F6805-B08A-4EFB-AEFF-125D8353777C}">
+					<ChildrenList>
+						<Action Name="Play" ID="{53C8126B-E465-4D23-BD3D-26275437D8B2}" ShortID="835322770" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B2B4ECF1-870F-4A7C-B33C-5712ED234B3B}" Global="false">
+									<ObjectRef Name="SRBK_MS_WARNING" ID="{918518E4-7CC2-456D-A284-08C5DEE05EC7}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_KUDO" ID="{D0178E7C-71D1-43C6-93B2-615EF02B3EFD}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9F60FD47-C88C-4CAC-91B8-908A34B43D21}" ShortID="675700895" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{92F7A8CD-BEFD-4C73-85EA-150B1F9BC46F}" Global="false">
+									<ObjectRef Name="SRBK_MS_KUDO" ID="{AB7C7863-EE0D-4BCA-AA1B-6269BDF370FF}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DEFEAT" ID="{45D51451-C550-40DC-9EA7-18064547F960}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CC097163-E3EB-440A-8BDF-EC097487490C}" ShortID="619971350" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{7C73D93C-36E9-4057-9144-8F75A412AF55}" Global="false">
+									<ObjectRef Name="SRBK_MS_DEFEAT" ID="{2E8665D0-DAB0-408F-87A4-6EF2C647723B}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_HAPPY_NEGATIVE" ID="{9220DA5F-851E-4F0C-AB2B-433FD451C77A}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A11F558A-0FED-4838-A642-D534703D38D4}" ShortID="22251866" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{ED9B77DB-DF20-453B-B6A1-286628BBBD91}" Global="false">
+									<ObjectRef Name="SRBK_MS_HAPPY_NEGATIVE" ID="{CD489B98-E038-41F4-B2FF-FFED7412718F}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{1D5F78EF-65EB-424D-94B4-74ED35C370A4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A7E35FB1-CBB1-4765-95CB-4FBB8683A987}" ShortID="489102254" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{38E7C1D7-B135-40C3-A2F6-C0BDDA0AEE2C}" Global="false">
+									<ObjectRef Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{5EFD77F0-035E-4D3A-A68A-C6AE9573B58A}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{93699B25-E5A8-4EE9-B9F2-74AA1F56E918}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C929405D-D67E-48B7-84CC-EAFF2017CE2E}" ShortID="374942523" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EE4B350A-FAE3-4C62-B5A1-76C23F211D70}" Global="false">
+									<ObjectRef Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{8437E4A9-D2AE-45BB-B8FC-AC605009141A}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_DECLARE_FRIEND" ID="{B821A96C-E371-422F-A805-24E9E8D2494A}">
+					<ChildrenList>
+						<Action Name="Play" ID="{6CB388C3-FF95-4C9A-9025-47F6A64E3547}" ShortID="807725220" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AD8AD123-C6D8-4708-94DE-0F5BC6D44640}" Global="false">
+									<ObjectRef Name="SRBK_MS_DECLARE_FRIEND" ID="{F7468EE1-1277-4D80-A5DE-6865E52C0CA1}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MAKE_PEACE" ID="{952B9D91-937F-4E28-8BD7-28006B761DA2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{168CF7B4-DFC4-41AE-85A6-DAB4D1B5480A}" ShortID="255421978" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6143A1FC-DA48-423C-A6BD-248106BDAB5E}" Global="false">
+									<ObjectRef Name="SRBK_MS_MAKE_PEACE" ID="{15D24CC2-FB08-4B4F-BB6E-3211A470D2E1}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

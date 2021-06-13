@@ -20,8 +20,6 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_NAME"
 			Text="穗织的守护神"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION"
-			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -30%。"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_RNF"
 			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在拥有圣地的己方城市作战时 +7 [ICON_Strength] 战斗力，在温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -40%，但砍伐森林与收获资源的收益 -60%。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS"
 			Text="可用 [ICON_Faith] 信仰值购买陆地战斗单位。单位在拥有圣地的己方城市作战时 +7 [ICON_Strength] 战斗力，在地热裂缝或温泉镇相邻的单元格内 +15 [ICON_Damaged] 回复。[NEWLINE]购买单元格的花费 -40%，但砍伐森林与收获资源的收益 -60%。"/>

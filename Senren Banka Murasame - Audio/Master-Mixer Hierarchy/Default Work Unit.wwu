@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{13AD97B0-C71C-4591-B778-84496DDC7623}" SchemaVersion="70">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{13AD97B0-C71C-4591-B778-84496DDC7623}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ChildrenList>
+						<Bus Name="Master Music Bus" ID="{E9EEB197-450C-4391-AF64-49A4230F3BB3}">
+							<ChildrenList>
+								<Bus Name="Music Bus" ID="{F9A6E1CD-24CE-416F-A3D5-FCE3691ED1C4}"/>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="a4zeqgn" ID="{29B5D3CC-7076-4A8A-A2C6-B322E14AEC2A}"/>
+						<AuxBus Name="agapnlb" ID="{476BD40C-05AB-444A-AD0B-FE16D8BEEE27}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}"/>
+				<MotionBus Name="Master Motion Bus" ID="{20A630BA-3398-4676-B927-1004DFE41FD8}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

@@ -137,6 +137,10 @@
 			<m_EntryID text="IMPROVEMENT_KANMIDOKORO_80"/>
 			<m_ObjectName text="IMPROVEMENT_KANMIDOKORO_80"/>
 		</Element>
+		<Element>
+			<m_EntryID text="MURASAME_4"/>
+			<m_ObjectName text="BARBAROSSA_4"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

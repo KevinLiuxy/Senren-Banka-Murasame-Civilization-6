@@ -101,9 +101,5 @@
 			Text="+{1_num} [ICON_Faith] Faith from the adjacent Geothermal Fissures. ({LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME})"/>
 		<Row Language="en_US" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_CULTURE"
 			Text="+{1_num} [ICON_Culture] Culture from the adjacent Geothermal Fissures. ({LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME})"/>
-
-		<!--Civilopedia-->
-		<Row Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
-			Text="Senren Banka"/>
 	</LocalizedText>
 </GameData>

@@ -87,9 +87,5 @@
 			Text="+{1_num} [ICON_Faith] 信仰值来自相邻的地热裂缝。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_CULTURE"
 			Text="+{1_num} [ICON_Culture] 文化值来自相邻的地热裂缝。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
-
-		<!--Civilopedia-->
-		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
-			Text="千恋万花"/>
 	</LocalizedText>
 </GameData>

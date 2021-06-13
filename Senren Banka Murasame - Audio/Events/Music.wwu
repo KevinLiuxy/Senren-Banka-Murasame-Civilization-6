@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Music" ID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Music_SENREN_BANKA" ID="{E8F9AB7D-3A0A-44D2-8DFC-9BBD57FD8481}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C6E2CB37-7498-46EC-AB63-4D437FC3D81F}" ShortID="266995307" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F5A73C12-94C9-48D4-BF3F-349F43038648}" Global="false">
+									<ObjectRef Name="Era Music" ID="{EF8A999C-110B-4C60-B34F-401C5A6C73C9}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{1D815B4A-B322-4C18-8114-A2C7EF7993F7}" ShortID="412901236" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{F2CC7C36-796B-4F8B-90D0-CC3D2B287CA2}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{4ACE25CB-E215-4D48-81F8-334FDFFF05E9}" ShortID="472569412" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{474E0C02-0955-4D39-BC18-056B7CB4663C}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{842D032E-AE4A-4521-AC54-BDA48B4D33BC}" ShortID="892227572" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{1B64719A-2044-49AE-A8B7-C01B85A9DE85}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Start_Music_SENREN_BANKA" ID="{0B9C4DBB-8E8B-4A1B-9227-4B3E58FE7863}">
+					<ChildrenList>
+						<Action Name="Play" ID="{79588E9F-5FE2-41C8-8E21-E736E50B1636}" ShortID="36664984" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{8FF955CF-2366-4B26-B7D8-806041B97869}" Global="false">
+									<ObjectRef Name="Era Music" ID="{EF8A999C-110B-4C60-B34F-401C5A6C73C9}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Music_SENREN_BANKA" ID="{22ED299A-6185-42FD-80A7-E97008B1AD29}">
+					<ChildrenList>
+						<Action Name="Stop" ID="{3DD73633-F202-4D51-A890-41D8B4F4B014}" ShortID="658320237" Type="Stop" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{BBE7B67D-CA68-4FCD-B928-818A9350C6C6}" Global="false">
+									<ObjectRef Name="Era Music" ID="{EF8A999C-110B-4C60-B34F-401C5A6C73C9}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{6D50FA8E-D128-4F52-81EE-349E254521F1}" ShortID="977852752" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{4EBE59E1-B150-4335-A210-C3A9CF133EC2}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Leader_Music_SENREN_BANKA" ID="{D5CDAAF4-3FEA-4BF0-9345-753F22D3AE82}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B75D4D05-D083-4773-9EE1-D7AEEFFC649C}" ShortID="312889697" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9C2E8F1E-70D6-4384-99E4-88C8C561808A}" Global="false">
+									<ObjectRef Name="Leader Music" ID="{E241A189-5D6C-4F2A-89AF-438D6B3DF727}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{F9EE76C7-1B8F-4583-AEEF-0842C9FE72AC}" ShortID="844747081" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{9AC65BBE-CE1B-4465-A14B-A7B2D4977286}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{53EEB116-674E-49A1-93C4-58A585DA6A07}" ShortID="387113036" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{46F53CF5-97E0-4287-98A8-BFC9E8016F71}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{E600ADFF-6532-4CA1-BCED-2772A648C7F7}" ShortID="679662122" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{85DAA055-6DC6-4624-82FC-8440C1497FAC}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Leader_Music_SENREN_BANKA" ID="{59FA3AA5-214C-48D8-881D-9BC8199E96D1}">
+					<ChildrenList>
+						<Action Name="Stop" ID="{2D12A25A-3F19-4EFF-A367-0BF52753D25F}" ShortID="277857783" Type="Stop" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E587C254-17F1-4C1C-BB97-2427A687ED95}" Global="false">
+									<ObjectRef Name="Leader Music" ID="{E241A189-5D6C-4F2A-89AF-438D6B3DF727}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{FBCDA217-612C-4370-A8BF-1DEDEDDEA510}" ShortID="796199368" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{D32AA4B6-4BF7-4715-A3B2-4F45B93AD70B}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{AF827B64-33A4-48B4-9035-7319491C19BE}" ShortID="659082838" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{BC8532AD-A035-43D8-B589-61A79F86945E}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{FF1B36BF-0EAA-4577-A972-65B06FE7F03C}" ShortID="653836119" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{97082DB6-98EE-4A3F-AB59-C20AD8C07EEE}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Pause_Music_SENREN_BANKA" ID="{DCF4D91A-1FF9-4E07-8F3D-6BCE4566FF69}">
+					<ChildrenList>
+						<Action Name="Pause" ID="{A41F3CE4-78D5-494D-A9E9-4570D6D2E893}" ShortID="432532404" Type="Pause" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{38A1BCA0-4855-4383-B1D0-329DEDD08475}" Global="false">
+									<ObjectRef Name="Era Music" ID="{EF8A999C-110B-4C60-B34F-401C5A6C73C9}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{E204CB88-045E-41B0-8751-8FC8EFE8D549}" ShortID="1007538867" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{AD1029A3-3C22-469B-AC59-14D9EA192289}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{308101F7-8AEF-4DDB-A968-702658F81F7E}" ShortID="428828193" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{4DA22968-335F-4389-B05C-9A2EEA1473E2}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{36E07388-8190-4325-B94C-374151713B20}" ShortID="194464725" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{3611B477-B438-4847-B889-D09900883788}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Resume_Music_SENREN_BANKA" ID="{ADFCE7CC-98B1-4085-BC41-7DDC2F651007}">
+					<ChildrenList>
+						<Action Name="Resume" ID="{87ACA3A8-F185-4312-A4EC-AB5422F9B8B3}" ShortID="610772390" Type="Resume" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{3DA01EB8-D068-434B-B920-2518296BCC8D}" Global="false">
+									<ObjectRef Name="Era Music" ID="{EF8A999C-110B-4C60-B34F-401C5A6C73C9}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{CB44FA2E-05F0-4F9B-9D56-4ECE4D2A149C}" ShortID="848943293" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{B85E2E61-0C28-44F1-98F1-05202C9A346A}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{9301B09A-F02E-484E-9C9E-A0AA12F47EDA}" ShortID="359183878" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{D3170377-1BE1-4EBA-8464-4187722AFA04}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{E651BA9A-75C6-46A7-BA4B-30415248FD8F}" ShortID="606338208" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{FB632B0D-B337-4570-B94D-ADDD99540209}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{098C980B-4B1C-43CA-AAC6-FE3CF85B44D8}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

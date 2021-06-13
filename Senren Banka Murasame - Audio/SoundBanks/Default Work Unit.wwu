@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{342A7AAC-47D2-4006-AA11-B27119E9BE50}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{342A7AAC-47D2-4006-AA11-B27119E9BE50}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Senren_Banka_Murasame_Speech" ID="{B6A53FE9-FC69-47DB-9F7F-CDCC91135EB5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SRBK_MS_WARNING" ID="{3A6F6805-B08A-4EFB-AEFF-125D8353777C}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{93699B25-E5A8-4EE9-B9F2-74AA1F56E918}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{9D0EF93C-88A6-4175-BF01-EDCEAB595F63}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_WIKI_QUOTE" ID="{0D14064F-5EB0-4BF1-ABC6-EC379B0C7027}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DEFEAT" ID="{45D51451-C550-40DC-9EA7-18064547F960}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_HAPPY_NEGATIVE" ID="{9220DA5F-851E-4F0C-AB2B-433FD451C77A}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DECLARE_FRIEND" ID="{B821A96C-E371-422F-A805-24E9E8D2494A}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{4E62EE6D-EA77-4C33-9B24-399AC02DA156}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{6D1DBF6F-2EE5-4502-A186-B5DFB77B0495}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_KUDO" ID="{D0178E7C-71D1-43C6-93B2-615EF02B3EFD}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_MAKE_PEACE" ID="{952B9D91-937F-4E28-8BD7-28006B761DA2}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{B7D417AC-79E5-4BC2-9632-AAE599CEF4D5}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{8B5B9FD2-74DD-4AC9-B43B-0DB3C8188CF2}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{B65183E9-373C-4187-9D2F-CF66EF73CE43}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{1D5F78EF-65EB-424D-94B4-74ED35C370A4}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_FIRST_MEET" ID="{46E2C6F5-D374-42BC-9581-684DF7007854}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SRBK_MS_HAPPY_POSITIVE" ID="{78F282F8-2B45-4E32-8473-76BFA7E17E46}" WorkUnitID="{DDF60FFE-BB49-4D50-88AB-076003507783}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Senren_Banka_Murasame_Music" ID="{C18DF4FB-C95E-4C0B-88AB-A7F461CF8CFC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Pause_Music_SENREN_BANKA" ID="{DCF4D91A-1FF9-4E07-8F3D-6BCE4566FF69}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Music_SENREN_BANKA" ID="{E8F9AB7D-3A0A-44D2-8DFC-9BBD57FD8481}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Music_SENREN_BANKA" ID="{22ED299A-6185-42FD-80A7-E97008B1AD29}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Leader_Music_SENREN_BANKA" ID="{59FA3AA5-214C-48D8-881D-9BC8199E96D1}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Start_Music_SENREN_BANKA" ID="{0B9C4DBB-8E8B-4A1B-9227-4B3E58FE7863}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Resume_Music_SENREN_BANKA" ID="{ADFCE7CC-98B1-4085-BC41-7DDC2F651007}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Leader_Music_SENREN_BANKA" ID="{D5CDAAF4-3FEA-4BF0-9345-753F22D3AE82}" WorkUnitID="{09D13CF0-60E0-484B-ADB6-8F145B3ADCD2}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

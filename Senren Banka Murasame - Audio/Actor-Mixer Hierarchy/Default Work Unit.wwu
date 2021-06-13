@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}" SchemaVersion="70">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="ID88602518" ID="{FEEB9298-24ED-4591-81FF-BBD013E380D9}" ShortID="88602518">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="a4zeqgn" ID="{29B5D3CC-7076-4A8A-A2C6-B322E14AEC2A}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<ActorMixer Name="ID854467727" ID="{A18BFD90-79A1-4203-B782-261921719BD1}" ShortID="854467727">
+							<PropertyList>
+								<Property Name="OverrideUserAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="agapnlb" ID="{476BD40C-05AB-444A-AD0B-FE16D8BEEE27}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<ActorMixer Name="ID424381547" ID="{E399A0E0-E25B-4147-9D6C-4D2CF2EE3039}" ShortID="424381547">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<ActorMixer Name="Murasame Speech" ID="{281EFB0F-9734-42FD-9FB3-8CDF6EED315E}" ShortID="420282817">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-4</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="SRBK_MS_FIRST_MEET" ID="{25F2D2A2-D766-4427-A4C0-04A4692DBFBF}" ShortID="223950990" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_FIRST_MEET" ID="{459AEF30-9B7A-4262-A3A4-BB7E5B0585AD}" ShortID="898089914">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_FIRST_MEET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_FIRST_MEET" ID="{459AEF30-9B7A-4262-A3A4-BB7E5B0585AD}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{ED530415-0548-4C13-A543-F0AE03166175}" ShortID="945275891" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{583FD1B6-C4A5-455F-91A0-298C4C3A1605}" ShortID="230943431">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DENOUNCE_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DENOUNCE_FROM_HUMAN" ID="{583FD1B6-C4A5-455F-91A0-298C4C3A1605}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{01C0A1AD-0416-4BEC-BA0A-359CACAB66A2}" ShortID="656249159" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{375DC47B-03F0-4EE3-A468-203E28CDE46A}" ShortID="195724122">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DECLARE_WAR_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DECLARE_WAR_FROM_AI" ID="{375DC47B-03F0-4EE3-A468-203E28CDE46A}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{477437FB-DF48-447E-A91B-40C6F8BD8D0A}" ShortID="893216171" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{21914311-78BF-45D4-A45F-EE5E6FE67CCC}" ShortID="1001836305">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DECLARE_WAR_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN" ID="{21914311-78BF-45D4-A45F-EE5E6FE67CCC}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{CDD91066-5DA7-4FBD-B865-D2EA87C17248}" ShortID="833871755" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{3D1D79A6-88CC-43A9-891A-FD6F78CCB322}" ShortID="834379361">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DENOUNCE_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DENOUNCE_FROM_AI" ID="{3D1D79A6-88CC-43A9-891A-FD6F78CCB322}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_HAPPY_POSITIVE" ID="{029E10DA-9584-4444-9147-DE10E1E9246A}" ShortID="136961815" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_HAPPY_POSITIVE" ID="{C60A6178-0449-438E-AE9B-5865321249A5}" ShortID="136432846">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_HAPPY_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_HAPPY_POSITIVE" ID="{C60A6178-0449-438E-AE9B-5865321249A5}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{4D1ECF32-24F9-44E6-A6DD-1170F0108A40}" ShortID="594972067" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{95D9B7F0-C29F-4E17-8638-9FA9369BB0CC}" ShortID="799935606">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_NEUTRAL_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_NEUTRAL_POSITIVE" ID="{95D9B7F0-C29F-4E17-8638-9FA9369BB0CC}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{DFB780C4-242F-43B8-BB5E-0400634EB2FF}" ShortID="197985048" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{80A15032-4B7A-409F-94D3-2C58C34DC325}" ShortID="250648436">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_UNHAPPY_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_UNHAPPY_POSITIVE" ID="{80A15032-4B7A-409F-94D3-2C58C34DC325}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_WARNING" ID="{918518E4-7CC2-456D-A284-08C5DEE05EC7}" ShortID="716807301" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_WARNING" ID="{FC4A8662-6212-45D3-B501-89E894207EB3}" ShortID="681818249">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_WARNING.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_WARNING" ID="{FC4A8662-6212-45D3-B501-89E894207EB3}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_KUDO" ID="{AB7C7863-EE0D-4BCA-AA1B-6269BDF370FF}" ShortID="99669774" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_KUDO" ID="{DD305CFF-DA0C-437F-81F8-B9C5646171BE}" ShortID="629181023">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_KUDO.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_KUDO" ID="{DD305CFF-DA0C-437F-81F8-B9C5646171BE}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DEFEAT" ID="{2E8665D0-DAB0-408F-87A4-6EF2C647723B}" ShortID="894274655" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DEFEAT" ID="{BCFC512C-1A12-4759-B102-BD3316331FB7}" ShortID="77860764">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DEFEAT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DEFEAT" ID="{BCFC512C-1A12-4759-B102-BD3316331FB7}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_HAPPY_NEGATIVE" ID="{CD489B98-E038-41F4-B2FF-FFED7412718F}" ShortID="765590774" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_HAPPY_NEGATIVE" ID="{D85B0767-7B19-42CF-ADD0-E6F4590C5B82}" ShortID="729218442">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_HAPPY_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_HAPPY_NEGATIVE" ID="{D85B0767-7B19-42CF-ADD0-E6F4590C5B82}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{5EFD77F0-035E-4D3A-A68A-C6AE9573B58A}" ShortID="482034308" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{F0ECFA3F-6C4E-44DB-A9EE-BF0DA5E09998}" ShortID="841711555">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_NEUTRAL_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_NEUTRAL_NEGATIVE" ID="{F0ECFA3F-6C4E-44DB-A9EE-BF0DA5E09998}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{8437E4A9-D2AE-45BB-B8FC-AC605009141A}" ShortID="1028306667" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{27335E6A-B516-4DDF-BCB4-DD2C37731D1C}" ShortID="340547547">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_UNHAPPY_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_UNHAPPY_NEGATIVE" ID="{27335E6A-B516-4DDF-BCB4-DD2C37731D1C}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_DECLARE_FRIEND" ID="{F7468EE1-1277-4D80-A5DE-6865E52C0CA1}" ShortID="418209376" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_DECLARE_FRIEND" ID="{E804383A-5085-462E-924D-18632AEE25C3}" ShortID="610044141">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_DECLARE_FRIEND.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_DECLARE_FRIEND" ID="{E804383A-5085-462E-924D-18632AEE25C3}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MAKE_PEACE" ID="{15D24CC2-FB08-4B4F-BB6E-3211A470D2E1}" ShortID="871263827" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MAKE_PEACE" ID="{BDD6FE4D-FC13-4C9F-8CB4-A9C23ED6D91B}" ShortID="687705480">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MAKE_PEACE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MAKE_PEACE" ID="{BDD6FE4D-FC13-4C9F-8CB4-A9C23ED6D91B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_WIKI_QUOTE" ID="{D701DC4A-E2C2-45BD-BD74-D6AFC64EEB4E}" ShortID="622614572" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_WIKI_QUOTE" ID="{ED1D6FC9-0AF4-4646-992A-747D95234A6F}" ShortID="576761773">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_WIKI_QUOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_WIKI_QUOTE" ID="{ED1D6FC9-0AF4-4646-992A-747D95234A6F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
+									</ChildrenList>
+								</ActorMixer>
+							</ChildrenList>
+						</ActorMixer>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
