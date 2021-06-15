@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
 	<RootPaths>
-		<ProjectRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame - Audio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame - Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Senren Banka Murasame\Senren Banka Murasame - Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles>

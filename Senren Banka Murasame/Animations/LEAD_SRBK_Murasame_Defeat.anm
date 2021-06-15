@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..AnimationInstance>
+	<m_CookParams>
+		<m_Values/>
+	</m_CookParams>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_fDuration>18.500002</m_fDuration>
+	<m_SourceFilePath text="//civ6/main/Senren Banka Murasame - Models\Murasame Defeat\LEAD_SRBK_Murasame_Defeat.fbx"/>
+	<m_SourceObjectName text="Armature"/>
+	<m_ImportedTime>0</m_ImportedTime>
+	<m_ExportedTime>1801479078</m_ExportedTime>
+	<m_ClassName text="Leader"/>
+	<m_DataFiles>
+		<Element>
+			<m_ID text="GR2"/>
+			<m_RelativePath text="LEAD_SRBK_Murasame_Defeat.fgx"/>
+		</Element>
+	</m_DataFiles>
+	<m_Name text="LEAD_SRBK_Murasame_Defeat"/>
+	<m_Description text=""/>
+	<m_Tags>
+		<Element text="Leader"/>
+	</m_Tags>
+</AssetObjects..AnimationInstance>
+

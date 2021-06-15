@@ -90,14 +90,6 @@
 			<m_ObjectName text="ICON_CIVILIZATION_SENREN_BANKA_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_MURASAME_INGAME"/>
-			<m_ObjectName text="BACKGROUND_MURASAME_INGAME"/>
-		</Element>
-		<Element>
-			<m_EntryID text="BACKGROUND_MURASAME_LOADING"/>
-			<m_ObjectName text="BACKGROUND_MURASAME_LOADING"/>
-		</Element>
-		<Element>
 			<m_EntryID text="DISTRICT_ONSEN_TOWN_128"/>
 			<m_ObjectName text="DISTRICT_ONSEN_TOWN_128"/>
 		</Element>
@@ -138,8 +130,36 @@
 			<m_ObjectName text="IMPROVEMENT_KANMIDOKORO_80"/>
 		</Element>
 		<Element>
+			<m_EntryID text="MURASAME_1"/>
+			<m_ObjectName text="MURASAME_1"/>
+		</Element>
+		<Element>
 			<m_EntryID text="MURASAME_4"/>
-			<m_ObjectName text="BARBAROSSA_4"/>
+			<m_ObjectName text="MURASAME_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BACKGROUND_MURASAME"/>
+			<m_ObjectName text="BACKGROUND_MURASAME"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_DISTRICT_ONSEN_TOWN"/>
+			<m_ObjectName text="MOMENT_DISTRICT_ONSEN_TOWN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_IMPROVEMENT_KANMIDOKORO"/>
+			<m_ObjectName text="MOMENT_IMPROVEMENT_KANMIDOKORO"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREGROUND_MURASAME"/>
+			<m_ObjectName text="FOREGROUND_MURASAME"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_BACKGROUND_MURASAME"/>
+			<m_ObjectName text="PORTRAIT_BACKGROUND_MURASAME"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_MURASAME"/>
+			<m_ObjectName text="PORTRAIT_LEADER_MURASAME"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

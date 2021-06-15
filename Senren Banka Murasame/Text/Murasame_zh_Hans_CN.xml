@@ -11,9 +11,9 @@
 />		<!--Chapter 6-3-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MURASAME_ANY"
 			Text="哦？城市里的咖啡厅还有这种服务啊——好想趁这个机会去一次看看…"
-/>		<!--Chapter 7-2-->
+/>		<!--Chapter 7-2--><!--Chapter 8-2-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MURASAME_ANY"
-			Text="穗织是一片肥沃的土地，我们有幸得它恩泽"
+			Text="穗织是一片肥沃的土地，我们有幸得它恩泽。想要来穗织体会一下身在桃源乡般的惬意吗，主人？"
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
@@ -168,6 +168,6 @@
 		<!--Civilopedia-->
 		<!--Chapter 6-4-->
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
-			Text="这是本座发自内心的忠告：要珍惜你的家人。常言道，“树欲静而风不止，子欲养而亲不待。”"/>
+			Text="要珍惜你的家人。常言道：树欲静而风不止，子欲养而亲不待。"/>
 	</LocalizedText>
 </GameData>

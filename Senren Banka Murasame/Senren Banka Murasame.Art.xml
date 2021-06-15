@@ -498,6 +498,7 @@
     <Element>
       <libraryName text="LeaderFallback"/>
       <relativePackagePaths>
+        <Element text="Civilization_LeaderFallBack"/>
       </relativePackagePaths>
     </Element>
     <Element>
