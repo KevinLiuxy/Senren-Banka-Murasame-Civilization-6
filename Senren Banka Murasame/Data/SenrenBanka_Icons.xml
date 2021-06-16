@@ -42,7 +42,5 @@
 		<Row Name="ICON_DISTRICT_ONSEN_TOWN" Atlas="ICON_ATLAS_DISTRICT_ONSEN_TOWN" index="0"/>
 		<Row Name="DISTRICT_ONSEN_TOWN" Atlas="ICON_ATLAS_FONT_ICON_BASELINE_4" Index="183"/>
 		<Row Name="ICON_IMPROVEMENT_KANMIDOKORO" Atlas="ICON_ATLAS_IMPROVEMENT_KANMIDOKORO" index="0"/>
-		<Row Name="ICON_PROJECT_GOSHINTO_A" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
-		<Row Name="ICON_PROJECT_GOSHINTO_B" Atlas="ICON_ATLAS_PROJECTS" Index="15"/><!--placeholder-->
 	</IconDefinitions>
 </GameData>

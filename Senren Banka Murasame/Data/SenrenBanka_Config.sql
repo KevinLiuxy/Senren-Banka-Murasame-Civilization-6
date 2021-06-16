@@ -57,7 +57,7 @@ VALUES (
 	/* ItmIcon */ 'ICON_UNIT_JAPANESE_SAMURAI',
 	/* ItmName */ 'LOC_UNIT_JAPANESE_SAMURAI_NAME',
 	/* Dscrptn */ 'LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION',
-	/* SortIdx */ 10
+	/* SortIdx */ 40
 ),(
 	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -84,7 +84,7 @@ VALUES (
 	/* ItmIcon */ 'ICON_UNIT_JAPANESE_SAMURAI',
 	/* ItmName */ 'LOC_UNIT_JAPANESE_SAMURAI_NAME',
 	/* Dscrptn */ 'LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION',
-	/* SortIdx */ 10
+	/* SortIdx */ 40
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',

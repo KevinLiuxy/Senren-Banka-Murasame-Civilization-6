@@ -32,6 +32,30 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_28" Text="松山"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_29" Text="松江"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
+		
+		<!--Citizen Names-->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="将臣"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_2"    Text="安晴"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="玄十郎"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_4"    Text="廉太郎"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_5"    Text="幸弘"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_1"  Text="芳乃"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_2"  Text="茉子"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_3"  Text="蕾娜"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_4"  Text="小春"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_5"  Text="芦花"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_6"  Text="美津叶"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_7"  Text="心子"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_8"  Text="比奈实"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_9"  Text="丛云"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_10" Text="宁宁"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_11" Text="爱瑠"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_12" Text="䌷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_13" Text="憧子"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_14" Text="和奏"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_15" Text="都子"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="典子"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
 
 		<!--Gameplay-->
 		<Row Language="zh_Hans_CN" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"

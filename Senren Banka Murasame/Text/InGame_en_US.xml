@@ -12,6 +12,15 @@
 			Text="{LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME}"/>
 		<Row Tag="LOC_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
 			Text="{LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION}"/>
+
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_6"  Text="{LOC_CITIZEN_JAPAN_MALE_1}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_7"  Text="{LOC_CITIZEN_JAPAN_MALE_2}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_8"  Text="{LOC_CITIZEN_JAPAN_MALE_3}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_9"  Text="{LOC_CITIZEN_JAPAN_MALE_4}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_10" Text="{LOC_CITIZEN_JAPAN_MALE_5}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_11" Text="{LOC_CITIZEN_JAPAN_MALE_8}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_12" Text="{LOC_CITIZEN_JAPAN_MALE_9}"/>
+		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_13" Text="{LOC_CITIZEN_JAPAN_MALE_10}"/>
 	</BaseGameText>
 	
 	<LocalizedText>
@@ -46,6 +55,30 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_28" Text="Matsuyama"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_29" Text="Matsue"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="Inuyama"/>
+
+		<!--Citizen Names-->
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="Masaomi"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_2"    Text="Yasuharu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="Genjuro"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_4"    Text="Rentaro"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_5"    Text="Yukihiro"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_1"  Text="Yoshino"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_2"  Text="Mako"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_3"  Text="Lena"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_4"  Text="Koharu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_5"  Text="Roka"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_6"  Text="Midzuha"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_7"  Text="Shinko"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_8"  Text="Hinami"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_9"  Text="Murakumo"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_10" Text="Nene"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_11" Text="Meguru"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_12" Text="Tsumugi"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_13" Text="Toko"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_14" Text="Wakana"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_15" Text="Miyako"/>
+		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="Norico"/>
+		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="Narumo"/>
 
 		<!--Gameplay-->
 		<Row Language="en_US" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
