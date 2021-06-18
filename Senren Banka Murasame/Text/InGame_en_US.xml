@@ -77,10 +77,15 @@
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_13" Text="Toko"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_14" Text="Wakana"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_15" Text="Miyako"/>
-		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="Norico"/>
-		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="Narumo"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="Norico"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="Narumo"/>
 
 		<!--Gameplay-->
+		<Row Language="en_US" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
+			Text="Twin Shadows"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
+			Text="Likes civilizations that maintains long term friendship or alliances with her. Dislikes civilizations that do not try to build a relation with her."/>
+
 		<Row Language="en_US" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1} ({LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME})"/>
 		<Row Language="en_US" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE2"

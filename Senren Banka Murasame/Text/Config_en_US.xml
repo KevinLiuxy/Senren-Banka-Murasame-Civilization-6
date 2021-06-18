@@ -20,9 +20,9 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_NAME"
 			Text="Guardian of Hoori"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION"
-			Text="Can purchase Land Combat Units with [ICON_Faith] Faith. Units +7 [ICON_Strength] Strength in owned cities that have a Holy Site, +15 [ICON_Damaged] Heal if adjacent to an Onsen Town.[NEWLINE]Districts without an appeal penalty can be build in Woods. Cost of purchasing tiles -40%, while Yields from removing Features and Harvesting resources -60%."/>
+			Text="Can purchase Land Combat Units with [ICON_Faith] Faith. Units +7 [ICON_Strength] Strength in friendly cities that have a Holy Site, +15 [ICON_Damaged] Heal if adjacent to an Onsen Town.[NEWLINE]Districts without an appeal penalty can be build in Woods. Cost of purchasing tiles -40%, while Yields from removing Features and Harvesting resources -60%."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS"
-			Text="Can purchase Land Combat Units with [ICON_Faith] Faith. Units +7 [ICON_Strength] Strength in owned cities that have a Holy Site, +15 [ICON_Damaged] Heal if adjacent to a Geothermal Fissure or Onsen Town.[NEWLINE]Districts without an appeal penalty can be build in Woods. Cost of purchasing tiles -40%, while Yields from removing Features and Harvesting resources -60%."/>
+			Text="Can purchase Land Combat Units with [ICON_Faith] Faith. Units +7 [ICON_Strength] Strength in friendly cities that have a Holy Site, +15 [ICON_Damaged] Heal if adjacent to a Geothermal Fissure or Onsen Town.[NEWLINE]Districts without an appeal penalty can be build in Woods. Cost of purchasing tiles -40%, while Yields from removing Features and Harvesting resources -60%."/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME"
 			Text="Onsen Town"/>

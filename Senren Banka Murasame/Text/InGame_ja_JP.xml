@@ -59,6 +59,9 @@
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
 
 		<!--Gameplay-->
+		<Row Language="ja_JP" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
+			Text="ふたつの影"/>
+
 		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
 		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE2"

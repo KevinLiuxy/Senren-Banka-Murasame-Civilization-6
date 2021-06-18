@@ -53,20 +53,11 @@ VALUES (
 	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
-	/* ItmType */ 'UNIT_JAPANESE_SAMURAI',
-	/* ItmIcon */ 'ICON_UNIT_JAPANESE_SAMURAI',
-	/* ItmName */ 'LOC_UNIT_JAPANESE_SAMURAI_NAME',
-	/* Dscrptn */ 'LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:Expansion1_Players',
-	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
-	/* LdrType */ 'LEADER_MURASAME',
 	/* ItmType */ 'DISTRICT_ONSEN_TOWN',
 	/* ItmIcon */ 'ICON_DISTRICT_ONSEN_TOWN',
 	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME',
 	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION',
-	/* SortIdx */ 20
+	/* SortIdx */ 10
 ),(
 	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -75,16 +66,16 @@ VALUES (
 	/* ItmIcon */ 'ICON_IMPROVEMENT_KANMIDOKORO',
 	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME',
 	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION',
-	/* SortIdx */ 30
+	/* SortIdx */ 20
 ),(
-	/* Domain  */ 'Players:Expansion2_Players',
+	/* Domain  */ 'Players:Expansion1_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
 	/* LdrType */ 'LEADER_MURASAME',
 	/* ItmType */ 'UNIT_JAPANESE_SAMURAI',
 	/* ItmIcon */ 'ICON_UNIT_JAPANESE_SAMURAI',
 	/* ItmName */ 'LOC_UNIT_JAPANESE_SAMURAI_NAME',
 	/* Dscrptn */ 'LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION',
-	/* SortIdx */ 40
+	/* SortIdx */ 30
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -93,7 +84,7 @@ VALUES (
 	/* ItmIcon */ 'ICON_DISTRICT_ONSEN_TOWN',
 	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME',
 	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS',
-	/* SortIdx */ 20
+	/* SortIdx */ 10
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
@@ -102,5 +93,14 @@ VALUES (
 	/* ItmIcon */ 'ICON_IMPROVEMENT_KANMIDOKORO',
 	/* ItmName */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME',
 	/* Dscrptn */ 'LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION',
+	/* SortIdx */ 20
+),(
+	/* Domain  */ 'Players:Expansion2_Players',
+	/* CivType */ 'CIVILIZATION_SENREN_BANKA',
+	/* LdrType */ 'LEADER_MURASAME',
+	/* ItmType */ 'UNIT_JAPANESE_SAMURAI',
+	/* ItmIcon */ 'ICON_UNIT_JAPANESE_SAMURAI',
+	/* ItmName */ 'LOC_UNIT_JAPANESE_SAMURAI_NAME',
+	/* Dscrptn */ 'LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION',
 	/* SortIdx */ 30
 );

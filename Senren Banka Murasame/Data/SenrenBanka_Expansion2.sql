@@ -46,6 +46,9 @@ VALUES	('IMPROVEMENT_KANMIDOKORO',	'FEATURE_FLOODPLAINS_GRASSLAND'	),
 INSERT INTO StartBiasFeatures (CivilizationType, FeatureType, Tier)
 VALUES ('CIVILIZATION_SENREN_BANKA', 'FEATURE_GEOTHERMAL_FISSURE', 1);
 
+INSERT INTO AgendaPreferredLeaders (LeaderType, AgendaType, PercentageChance)
+VALUES ('LEADER_MURASAME', 'AGENDA_DESTINATION_CIV', 67);
+
 INSERT INTO AiFavoredItems (ListType, Item, Favored)
 VALUES ('MurasameWonders', 'BUILDING_GREAT_BATH', 1);
 

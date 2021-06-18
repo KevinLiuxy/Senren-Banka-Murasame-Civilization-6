@@ -58,6 +58,11 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
 
 		<!--Gameplay-->
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
+			Text="形影成双"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
+			Text="喜欢长期宣布友好关系或结盟的文明。讨厌不愿宣布友好，且不试图与她建立关系的文明。"/>
+
 		<Row Language="zh_Hans_CN" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE2"
