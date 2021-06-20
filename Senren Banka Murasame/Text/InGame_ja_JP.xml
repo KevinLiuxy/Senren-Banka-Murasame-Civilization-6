@@ -40,6 +40,8 @@
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="玄十郎"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_4"    Text="廉太郎"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_5"    Text="幸弘"/>
+		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_6"    Text="忠興"/>
+		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_7"    Text="一豐"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_1"  Text="芳乃"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_2"  Text="茉子"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_3"  Text="レナ"/>
@@ -57,6 +59,7 @@
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_15" Text="都子"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="典子"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
+		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="秋穗"/>
 
 		<!--Gameplay-->
 		<Row Language="ja_JP" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"

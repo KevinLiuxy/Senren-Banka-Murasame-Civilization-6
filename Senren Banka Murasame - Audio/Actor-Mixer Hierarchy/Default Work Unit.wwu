@@ -379,6 +379,177 @@
 														<ActiveSource Name="SRBK_MS_WIKI_QUOTE" ID="{ED1D6FC9-0AF4-4646-992A-747D95234A6F}" Platform="Linked"/>
 													</ActiveSourceList>
 												</Sound>
+												<Sound Name="SRBK_MS_MENU_END" ID="{738DEFA5-D1BA-42F5-AC79-AABDD182F7FB}" ShortID="145733806" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_END" ID="{4FF9871E-0B8A-47A0-804E-5F352EC7AB3B}" ShortID="173371403">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_END.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_END" ID="{4FF9871E-0B8A-47A0-804E-5F352EC7AB3B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_EXTRA" ID="{7E5D802C-E944-4D9C-9AE2-DC6EA3C19A68}" ShortID="289494935" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_EXTRA" ID="{255F2E10-3160-465E-8AC4-15221C5CD280}" ShortID="51201156">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_EXTRA.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_EXTRA" ID="{255F2E10-3160-465E-8AC4-15221C5CD280}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_GAME" ID="{0056AB19-9C3C-4153-96A5-E0C3DD416B1C}" ShortID="301231105" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_GAME" ID="{83A6A957-E91E-43E3-9222-0016FD6BFD18}" ShortID="796115711">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_GAME.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_GAME" ID="{83A6A957-E91E-43E3-9222-0016FD6BFD18}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_GOODBYE" ID="{2225C5DF-7C8B-44E2-AE50-92F29C0CE647}" ShortID="773370360" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_GOODBYE" ID="{757FCFF4-4FB3-4EF7-BC10-C167DC7DBE23}" ShortID="103231739">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_GOODBYE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_GOODBYE" ID="{757FCFF4-4FB3-4EF7-BC10-C167DC7DBE23}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_LOAD" ID="{D7C4B924-351C-48D6-9C91-609812005C0B}" ShortID="1004049745" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_LOAD" ID="{FDECDD9F-02F8-4741-A4AA-E9042AA6A925}" ShortID="711824439">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_LOAD.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_LOAD" ID="{FDECDD9F-02F8-4741-A4AA-E9042AA6A925}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_RESET" ID="{3B8836E3-AD46-4406-B1D5-4F844B76B6AF}" ShortID="59323761" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_RESET" ID="{42BE5EA1-00BC-4C3F-A2F0-605F7A14EA45}" ShortID="970722125">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_RESET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_RESET" ID="{42BE5EA1-00BC-4C3F-A2F0-605F7A14EA45}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_SAVE" ID="{33FF1E86-E2D0-4662-BF64-03B7F9E7AE56}" ShortID="140441303" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_SAVE" ID="{5F2919C7-8ABD-4B2C-B0E4-BF9CAA69888B}" ShortID="656642562">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_SAVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_SAVE" ID="{5F2919C7-8ABD-4B2C-B0E4-BF9CAA69888B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_SYSTEM" ID="{9F94D681-4B5F-484F-B993-C23E1B34F47F}" ShortID="919274572" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_SYSTEM" ID="{89F2AB45-3F1D-4663-8A65-D047915D9E06}" ShortID="724340498">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_SYSTEM.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_SYSTEM" ID="{89F2AB45-3F1D-4663-8A65-D047915D9E06}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="SRBK_MS_MENU_TITLE" ID="{FDB6D3C4-52F5-498B-8326-21E535F2ECDA}" ShortID="678873928" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{95738E2F-7D2E-4BF1-A5DF-3244FB4D9EE0}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SRBK_MS_MENU_TITLE" ID="{E6EC0A36-F45B-49FA-A3E7-193D037F03FB}" ShortID="1056015351">
+															<Language>SFX</Language>
+															<AudioFile>SRBK_MS_MENU_TITLE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="SRBK_MS_MENU_TITLE" ID="{E6EC0A36-F45B-49FA-A3E7-193D037F03FB}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
 											</ChildrenList>
 										</ActorMixer>
 									</ChildrenList>

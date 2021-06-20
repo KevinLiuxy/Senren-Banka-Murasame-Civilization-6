@@ -37,6 +37,15 @@
 				<Event Id="180919913" Name="SRBK_MS_HAPPY_POSITIVE"/>
 				<Event Id="3514785642" Name="SRBK_MS_KUDO"/>
 				<Event Id="1622166480" Name="SRBK_MS_MAKE_PEACE"/>
+				<Event Id="2311738126" Name="SRBK_MS_MENU_END"/>
+				<Event Id="1377062963" Name="SRBK_MS_MENU_EXTRA"/>
+				<Event Id="3314581725" Name="SRBK_MS_MENU_GAME"/>
+				<Event Id="1365746576" Name="SRBK_MS_MENU_GOODBYE"/>
+				<Event Id="3419064243" Name="SRBK_MS_MENU_LOAD"/>
+				<Event Id="2532099936" Name="SRBK_MS_MENU_RESET"/>
+				<Event Id="1653999928" Name="SRBK_MS_MENU_SAVE"/>
+				<Event Id="2495775764" Name="SRBK_MS_MENU_SYSTEM"/>
+				<Event Id="4228599699" Name="SRBK_MS_MENU_TITLE"/>
 				<Event Id="2486039548" Name="SRBK_MS_NEUTRAL_NEGATIVE"/>
 				<Event Id="3488164436" Name="SRBK_MS_NEUTRAL_POSITIVE"/>
 				<Event Id="955307228" Name="SRBK_MS_UNHAPPY_NEGATIVE"/>
@@ -45,13 +54,25 @@
 				<Event Id="1941182488" Name="SRBK_MS_WIKI_QUOTE"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="51201156" Language="SFX">
+					<ShortName>SRBK_MS_MENU_EXTRA.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_EXTRA_50328C8D.wem</Path>
+				</File>
 				<File Id="77860764" Language="SFX">
 					<ShortName>SRBK_MS_DEFEAT.wav</ShortName>
 					<Path>SFX\SRBK_MS_DEFEAT_50328C8D.wem</Path>
 				</File>
+				<File Id="103231739" Language="SFX">
+					<ShortName>SRBK_MS_MENU_GOODBYE.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_GOODBYE_50328C8D.wem</Path>
+				</File>
 				<File Id="136432846" Language="SFX">
 					<ShortName>SRBK_MS_HAPPY_POSITIVE.wav</ShortName>
 					<Path>SFX\SRBK_MS_HAPPY_POSITIVE_50328C8D.wem</Path>
+				</File>
+				<File Id="173371403" Language="SFX">
+					<ShortName>SRBK_MS_MENU_END.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_END_50328C8D.wem</Path>
 				</File>
 				<File Id="195724122" Language="SFX">
 					<ShortName>SRBK_MS_DECLARE_WAR_FROM_AI.wav</ShortName>
@@ -81,6 +102,10 @@
 					<ShortName>SRBK_MS_KUDO.wav</ShortName>
 					<Path>SFX\SRBK_MS_KUDO_50328C8D.wem</Path>
 				</File>
+				<File Id="656642562" Language="SFX">
+					<ShortName>SRBK_MS_MENU_SAVE.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_SAVE_50328C8D.wem</Path>
+				</File>
 				<File Id="681818249" Language="SFX">
 					<ShortName>SRBK_MS_WARNING.wav</ShortName>
 					<Path>SFX\SRBK_MS_WARNING_50328C8D.wem</Path>
@@ -89,9 +114,21 @@
 					<ShortName>SRBK_MS_MAKE_PEACE.wav</ShortName>
 					<Path>SFX\SRBK_MS_MAKE_PEACE_50328C8D.wem</Path>
 				</File>
+				<File Id="711824439" Language="SFX">
+					<ShortName>SRBK_MS_MENU_LOAD.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_LOAD_50328C8D.wem</Path>
+				</File>
+				<File Id="724340498" Language="SFX">
+					<ShortName>SRBK_MS_MENU_SYSTEM.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_SYSTEM_50328C8D.wem</Path>
+				</File>
 				<File Id="729218442" Language="SFX">
 					<ShortName>SRBK_MS_HAPPY_NEGATIVE.wav</ShortName>
 					<Path>SFX\SRBK_MS_HAPPY_NEGATIVE_50328C8D.wem</Path>
+				</File>
+				<File Id="796115711" Language="SFX">
+					<ShortName>SRBK_MS_MENU_GAME.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_GAME_50328C8D.wem</Path>
 				</File>
 				<File Id="799935606" Language="SFX">
 					<ShortName>SRBK_MS_NEUTRAL_POSITIVE.wav</ShortName>
@@ -109,9 +146,17 @@
 					<ShortName>SRBK_MS_FIRST_MEET.wav</ShortName>
 					<Path>SFX\SRBK_MS_FIRST_MEET_50328C8D.wem</Path>
 				</File>
+				<File Id="970722125" Language="SFX">
+					<ShortName>SRBK_MS_MENU_RESET.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_RESET_50328C8D.wem</Path>
+				</File>
 				<File Id="1001836305" Language="SFX">
 					<ShortName>SRBK_MS_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
 					<Path>SFX\SRBK_MS_DECLARE_WAR_FROM_HUMAN_50328C8D.wem</Path>
+				</File>
+				<File Id="1056015351" Language="SFX">
+					<ShortName>SRBK_MS_MENU_TITLE.wav</ShortName>
+					<Path>SFX\SRBK_MS_MENU_TITLE_50328C8D.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

@@ -190,6 +190,105 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="SRBK_MS_MENU_END" ID="{8C434020-C9E4-4B11-AFB1-DA5E5E9FDDBF}">
+					<ChildrenList>
+						<Action Name="Play" ID="{F0BD52D8-7560-495F-ABF4-C454FD30DF1B}" ShortID="714799096" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{34CB02E2-D1F7-45BE-931E-22AE4C49C631}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_END" ID="{738DEFA5-D1BA-42F5-AC79-AABDD182F7FB}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_EXTRA" ID="{232D6174-831C-4AEB-B6DC-B4BE2F2B60A8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{E9FECA8F-75FE-4729-A8A1-99599F89A5A9}" ShortID="943730732" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9BAC68BB-11FE-4C8C-A463-9B9A4CCFF12B}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_EXTRA" ID="{7E5D802C-E944-4D9C-9AE2-DC6EA3C19A68}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_GAME" ID="{1C808D46-01C4-4843-8B4E-6F8B19E87E34}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CAB70C89-DB85-40E5-AF6E-209A9D5BF8D0}" ShortID="326612622" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{34BDCD72-1775-43B2-A7DA-83DB42EEFAAD}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_GAME" ID="{0056AB19-9C3C-4153-96A5-E0C3DD416B1C}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_GOODBYE" ID="{FF072530-4040-4788-BB42-FE05DF288F0F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C5372C3A-7207-40E8-9311-50EF8741A8EF}" ShortID="874042951" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{750920E5-A613-48FD-90C6-BB419BF2FCBF}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_GOODBYE" ID="{2225C5DF-7C8B-44E2-AE50-92F29C0CE647}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_LOAD" ID="{0FC68862-E44A-4232-AE34-58072F2E4115}">
+					<ChildrenList>
+						<Action Name="Play" ID="{F87C253E-F5D2-407E-B840-5D495676041A}" ShortID="389965519" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CD7652E4-9A30-4678-8470-A9221C6C4FAF}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_LOAD" ID="{D7C4B924-351C-48D6-9C91-609812005C0B}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_RESET" ID="{32AA0B9E-C32D-4D59-B56B-10886B72D2FD}">
+					<ChildrenList>
+						<Action Name="Play" ID="{0E4F20C5-7139-400E-9466-51160619FDBF}" ShortID="548256057" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{D4199432-AD8D-4C3E-B2FE-8B2CA3A704AD}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_RESET" ID="{3B8836E3-AD46-4406-B1D5-4F844B76B6AF}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_SAVE" ID="{E2662EE8-ADDF-46B6-AAA6-0ED1CFA4F0C9}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AAA61148-7695-4A00-9D38-CF8C195D3DA1}" ShortID="994909606" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{1C8FD794-3116-4BC8-BC26-E51310950499}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_SAVE" ID="{33FF1E86-E2D0-4662-BF64-03B7F9E7AE56}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_SYSTEM" ID="{E6C405A3-F39A-44CF-826E-A5ECB68A4E6E}">
+					<ChildrenList>
+						<Action Name="Play" ID="{DA9BBD5F-2E10-416E-8B16-C51C1E84135F}" ShortID="256242790" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{DD5173A5-6466-497B-82A8-482DBACD2081}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_SYSTEM" ID="{9F94D681-4B5F-484F-B993-C23E1B34F47F}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SRBK_MS_MENU_TITLE" ID="{C8E5CE37-33EC-43FD-8419-EEB7F7B4D3ED}">
+					<ChildrenList>
+						<Action Name="Play" ID="{4A4BD639-02BB-4FEE-B318-E06D15A23EE6}" ShortID="137311822" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{D577BC61-B361-41CD-8B3D-F686B97B4205}" Global="false">
+									<ObjectRef Name="SRBK_MS_MENU_TITLE" ID="{FDB6D3C4-52F5-498B-8326-21E535F2ECDA}" WorkUnitID="{CFCD0874-2B50-4318-AB99-DF597AB312F7}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
