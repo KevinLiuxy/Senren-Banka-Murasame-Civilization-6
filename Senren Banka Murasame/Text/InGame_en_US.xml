@@ -81,10 +81,17 @@
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="Akiho"/>
 
 		<!--Gameplay-->
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MURASAME"
+			Text="Murasame, the guardian of Hoori, blessings of gods have granted you the power to overcome evil. You watch over the land of Hoori alone over the cycles of countless summers and winters. Twinkling lights and sounds of frolic children under the twilight is the sign of life thriving on this land to this date. Maintain long lasting bonds with your allies. Together, you will embellish a shining future and make Hoori a fascinating attraction to people across all nations."/>
+
 		<Row Language="en_US" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
 			Text="Twin Shadows"/>
 		<Row Language="en_US" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
-			Text="Likes civilizations that maintains long term friendship or alliances with her. Dislikes civilizations that do not try to build a relation with her."/>
+			Text="Likes civilizations that maintain long term friendship or alliances with her. Dislikes civilizations that do not try to build a relation with her."/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_ONLY_KANOJO"
+			Text="Murasame likes the long lasting relationship between you and her"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_BUILD_HAREM"
+			Text="Murasame is upset that you neglected to maintain a good relationship with her"/>
 
 		<Row Language="en_US" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1} ({LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME})"/>

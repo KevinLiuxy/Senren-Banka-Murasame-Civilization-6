@@ -9,8 +9,8 @@
 		<build>0</build>
 		<revision>0</revision>
 	</m_Version>
-	<m_fDuration>15.000001</m_fDuration>
-	<m_SourceFilePath text="F:\Leader Murasame\Murasame Happy Idle\LEAD_SRBK_Murasame_Happy_Idle.fbx"/>
+	<m_fDuration>12.500001</m_fDuration>
+	<m_SourceFilePath text="//civ6/main/Senren Banka Murasame - Models\Murasame Happy Idle\LEAD_SRBK_Murasame_Happy_Idle.fbx"/>
 	<m_SourceObjectName text="Armature"/>
 	<m_ImportedTime>0</m_ImportedTime>
 	<m_ExportedTime>1801479078</m_ExportedTime>

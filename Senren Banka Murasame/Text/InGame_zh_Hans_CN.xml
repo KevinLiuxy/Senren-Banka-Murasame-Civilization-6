@@ -61,10 +61,17 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="秋穗"/>
 
 		<!--Gameplay-->
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_MURASAME"
+			Text="穗织的守护者丛雨，神明的眷顾赋予了您战胜邪恶的力量。跨越了无数年的春秋冬夏，您独自一人守望着穗织的大地。夕阳下阑珊的灯火和孩童们的嬉闹，是这片土地时至今日仍旧生生不息的象征。珍惜与他人相连的羁绊，与盟友一同点缀崭新的的未来，让穗织成为大家心驰神往的文化胜地吧。"/>
+
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
 			Text="形影成双"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
 			Text="喜欢长期宣布友好关系或结盟的文明。讨厌不愿宣布友好，且不试图与她建立关系的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_ONLY_KANOJO"
+			Text="丛雨珍视与你之间产生的羁绊"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_BUILD_HAREM"
+			Text="丛雨不愿看到你忽视和她之间的关系"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
