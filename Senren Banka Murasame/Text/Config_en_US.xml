@@ -4,16 +4,16 @@
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_SENREN_BANKA_NAME"
 			Text="Senren Banka"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
-			Text="Senren＊Banka"/>
+			Text="Senren*Banka"/>
 		<Row Language="en_US" Tag="LOC_CIVILIZATION_SENREN_BANKA_ADJECTIVE"
 			Text="Senren Banka"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
 			Text="It's a Hoori Style"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
-			Text="Cities -70% Growth after reaching 7 Population.[NEWLINE]For cities with 10 or less Population:[NEWLINE]+1 Appeal, +1 [ICON_Amenities] Amenities, +5% [ICON_Culture] Culture. Campus, Theater Square, and Holy Site districts receive additional Minor Bonuses from adjacent Woods and Mountains."/>
+			Text="Cities -80% Growth after reaching 7 Population.[NEWLINE]For cities with 10 or less Population:[NEWLINE]+1 Appeal, +1 [ICON_Amenities] Amenities, +5% [ICON_Culture] Culture. Campus, Theater Square, and Holy Site districts receive additional Minor Bonuses from adjacent Woods and Mountains."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
-			Text="Cities -70% Growth after reaching 7 Population.[NEWLINE]For cities with 10 or less Population:[NEWLINE]+1 Appeal, +1 [ICON_Amenities] Amenities, +5% [ICON_Culture] Culture. Campus, Theater Square, and Holy Site districts receive additional Minor Bonuses from adjacent Woods and Mountains. Theater Square, Holy Site, and Commercial Hub districts receive Major Bonuses from adjacent Volcanic Soil and Geothermal Fissure."/>
+			Text="Cities -80% Growth after reaching 7 Population.[NEWLINE]For cities with 10 or less Population:[NEWLINE]+1 Appeal, +1 [ICON_Amenities] Amenities, +5% [ICON_Culture] Culture. Campus, Theater Square, and Holy Site districts receive additional Minor Bonuses from adjacent Woods and Mountains. Theater Square, Holy Site, and Commercial Hub districts receive Major Bonuses from adjacent Volcanic Soil and Geothermal Fissure."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_MURASAME_NAME"
 			Text="Murasame"/>
@@ -29,11 +29,11 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION"
 			Text="A district unique to Senren Banka, replaces the Aqueduct district and cheaper to build.[NEWLINE]If built adjacent to Mountains: +1 [ICON_Amenities] Amenities and +33% [ICON_Tourism] Tourism pressure from this city."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
-			Text="A district unique to Senren Banka, replaces the Aqueduct district and cheaper to build.[NEWLINE]If built adjacent to Volcanos, Volcanic Soil, or Geothermal Fissures: +1 [ICON_Amenities] Amenities and +33% [ICON_Tourism] Tourism pressure from this city."/>
+			Text="A district unique to Senren Banka, replaces the Aqueduct district and cheaper to build. Geothermal Fissures in this city +3 [ICON_Culture] Culture.[NEWLINE]If built adjacent to Volcanos, Volcanic Soil, or Geothermal Fissures: +1 [ICON_Amenities] Amenities and +33% [ICON_Tourism] Tourism pressure from this city."/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME"
 			Text="Kanmidokoro"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
-			Text="Unlocks the Builder ability to construct a Kanmidokoro, unique to Senren Banka.[NEWLINE][NEWLINE]+2 [ICON_Gold] Gold, +1 [ICON_Culture] Culture, and +1 Appeal. Additionaly, +1 [ICON_Science] Science [ICON_Culture] Culture [ICON_Faith] Faith or [ICON_Gold] Gold for each Campus, Theater Square, Holy Site, and Commercial Hub Building it is adjacent to. One per city. Tiles with Kanmidokoros cannot be swapped."/>
+			Text="Unlocks the Builder ability to construct a Kanmidokoro, unique to Senren Banka.[NEWLINE][NEWLINE]+2 [ICON_Gold] Gold, +2 [ICON_Culture] Culture, and +1 Appeal. Additionaly, +1 [ICON_Science] Science [ICON_Culture] Culture [ICON_Faith] Faith or [ICON_Gold] Gold for each Campus, Theater Square, Holy Site, and Commercial Hub Building it is adjacent to. One per city. Tiles with Kanmidokoros cannot be swapped."/>
 	</LocalizedText>
 </GameData>

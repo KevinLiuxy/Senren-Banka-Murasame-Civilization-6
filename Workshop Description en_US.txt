@@ -1,0 +1,34 @@
+This Mod contains fully animated and voiced anime leader Murasame (ムラサメ) from civilization Senren Banka.
+
+As the guardian of Hoori, Murasame can protect her people through the power of faith. She maintains the harmony of humans and nature on the common land they share.
+Hoori is a land of culture and natural beauty. Small towns in the civilization receive bonus appeal, and all districts in such cities receive adjacency bonuses from mountains and woods.
+Unique district "Onsen Town" is a hot spring resort that provides additional culture, and attracts visiting tourists from all nations across the sea.
+Unique improvement "Kanmidokoro" (Japanese dessert cafe) inspires people nearby and improves adjacent buildings' yields.
+
+This Mod also contains 40 minutes of Senren Banka game music. They can play alongside other civilization's music.
+
+[h1]Mod Highlights[/h1][list]
+[*][b]Fully Voiced Murasame-Chan[/b]
+All leader speeches are quoted directly from Senren Banka. Murasame has 17 unique lines in the diplomacy screen. (And more surprises from the in-game menu!)
+
+[*][b]Vivid Emotion and Expressions[/b]
+The Leader model for the Infantile Knife (Murasame) contains 3 postures and 25 unique expressions. The animations are reproduced from the original Senren Banka game with care. [spoiler]And If you mistreat her, she'll cry QaQ[/spoiler]
+
+[*][b]Compatible with Civilization Japan[/b]
+The city names of Senren Banka are drawn from the most famous onsen resorts in Japan, some of the ancient citiesl, and tourist destinations. City names and geographical names do not collide with Japan in the game.[/list]
+
+[h1]Special Thanks[/h1]
+1. Huge thanks to [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] (leader speech) and [url=steamcommunity.com/profiles/76561198227272780]Hemmelfort[/url] (leader animation) for their technical support. This mod wouldn't be possible without their findings.
+2. A big thanks to my friend [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] for ideas, suggestions, and testing.
+3. A big thanks to my fellow Modder [url=steamcommunity.com/id/AmaHina]Amamiya_Hinaki[/url] for providing Japanese localization.
+
+Thanks again for everyone's support! Making an animated and voiced leader is significantly more challenging and time-consuming (spent 200+ hrs), but I am glad I was finally able to finish it. Please let me know if you find any bugs in the mod. You're all the best ☆
+
+[h1]Credits & References[/h1]
+[url=store.steampowered.com/app/1144400]Senren＊Banka[/url] by Yuzusoft
+Artist [url=https://www.pixiv.net/en/users/89861]小卡[/url] [url=https://www.pixiv.net/en/artworks/70315635]《中華風！》[/url]
+Music Albums:
+1. 千恋＊万花 オリジナルサウンドトラック Disc 01
+2. 千恋＊万花 オリジナルサウンドトラック Disc 02
+3. 千恋＊万花 オリジナルサウンドトラック Disc 03
+Source Code: https://github.com/KevinLiuxy/Senren-Banka-Murasame-Civilization-6

@@ -1,0 +1,14 @@
+  <LocalizedText>
+    <Text id="MOD_SENREN_BANKA_MURASAME">
+      <en_US>Senren Banka · Murasame Leader Pack</en_US>
+      <zh_Hans_CN>千恋万花·丛雨 领袖包</zh_Hans_CN>
+    </Text>
+    <Text id="LOC_MOD_SENREN_BANKA_MURASAME_TEASER">
+      <en_US>Senren Banka Civilization and its Leader Murasame.</en_US>
+      <zh_Hans_CN>丛雨领导的千恋万花文明。</zh_Hans_CN>
+    </Text>
+    <Text id="LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION">
+      <en_US>--- Senren Banka Civilization ---[NEWLINE]New Leader: Murasame (Aya)[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]en_US, ja_JP, zh_Hans_CN[NEWLINE][NEWLINE]Enjoy!</en_US>
+      <zh_Hans_CN>--- “千恋万花”文明 ---[NEWLINE]领袖：丛雨（绫）[NEWLINE][NEWLINE]支持的语言：[NEWLINE]en_US, ja_JP, zh_Hans_CN[NEWLINE][NEWLINE]玩得开心！</zh_Hans_CN>
+    </Text>
+  </LocalizedText>

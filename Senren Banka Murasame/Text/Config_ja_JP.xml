@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="ja_JP" Tag="LOC_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="千恋万花"/>
+		<Row Language="ja_JP" Tag="LOC_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="千恋＊万花"/>
+		<Row Language="ja_JP" Tag="LOC_CIVILIZATION_SENREN_BANKA_ADJECTIVE"
+			Text="千恋万花"/>
+
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="穂織のキズナ"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="人口が7以上の都市の [ICON_Food] 成長-80%。[NEWLINE]人口が10以下の都市の [ICON_Amenities] 快適性+1、アピール+1、[ICON_Culture] 文化力+5%。[NEWLINE]キャンパス、劇場広場、聖地の各区域は森林・山岳タイルから+0.5の隣接ボーナスを得る。"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
+			Text="人口が7以上の都市の [ICON_Food] 成長-80%。[NEWLINE]人口が10以下の都市の [ICON_Amenities] 快適性+1、アピール+1、[ICON_Culture] 文化力+5%。[NEWLINE]キャンパス、劇場広場、聖地の各区域は森林・山岳タイルから+0.5の隣接ボーナスを得る。商業ハブ、劇場広場、聖地の各区域は火山性土・地熱孔タイルから+2の隣接ボーナスを得る。"/>
+
+		<Row Language="ja_JP" Tag="LOC_LEADER_MURASAME_NAME"
+			Text="ムラサメ"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_NAME"
+			Text="穂織の守護者"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION"
+			Text="[ICON_Faith] 信仰力で陸戦ユニットを購入できる。聖地区域がある友好的な文明の領土内での戦闘時に [ICON_Strength] 戦闘力+7。湯治場から周囲1タイル以内にいる味方ユニットのターン毎の [ICON_Damaged] HP回復量+15。[NEWLINE]アピールに悪影響を与えない区域は森を除去せず建設できる。タイルの購入に必要な [ICON_Gold] ゴールド-40%、都市での収穫や特徴の削除による産出物-60%。"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS"
+			Text="[ICON_Faith] 信仰力で陸戦ユニットを購入できる。聖地区域がある友好的な文明の領土内での戦闘時に [ICON_Strength] 戦闘力+7。地熱孔か湯治場から周囲1タイル以内にいる味方ユニットのターン毎の [ICON_Damaged] HP回復量+15。[NEWLINE]アピールに悪影響を与えない区域は森を除去せず建設できる。タイルの購入に必要な [ICON_Gold] ゴールド-40%、都市での収穫や特徴の削除による産出物-60%。"/>
+
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME"
+			Text="湯治場"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION"
+			Text="都市を発展させる千恋万花固有の区域。用水路に取ってかわり、より安価に建設できる。[NEWLINE]山岳に隣接している場合この都市の [ICON_Amenities] 快適性+1、[ICON_Tourism] 観光力+33%。"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
+			Text="都市を発展させる千恋万花固有の区域。用水路に取ってかわり、より安価に建設できる。この都市の地熱孔から [ICON_Culture] 文化力+3。[NEWLINE]火山・火山性土・地熱孔に隣接している場合この都市の [ICON_Amenities] 快適性+1、[ICON_Tourism] 観光力+33%。"/>
+
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME"
+			Text="甘味処"/>
+		<Row Language="ja_JP" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
+			Text="労働者が甘味処を建設できるようになる。[NEWLINE][NEWLINE]1都市に1つしか建設できない。[ICON_Gold] ゴールド+2、[ICON_Culture] 文化力+2、アピール+2。隣接するキャンパス、劇場広場、聖地、商業ハブ区域の建造物ごとにそれぞれ [ICON_Science] 科学、[ICON_Culture] 文化、[ICON_Faith] 信仰、[ICON_Gold] ゴールド+1。このタイルの交換はできなくなる。"/>
+	</LocalizedText>
+</GameData>

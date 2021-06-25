@@ -18,6 +18,8 @@
 		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_10" Text="{LOC_CITIZEN_JAPAN_MALE_5}"/>
 		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_11" Text="{LOC_CITIZEN_JAPAN_MALE_8}"/>
 		<Row Tag="LOC_CITIZEN_SENREN_BANKA_MALE_12" Text="{LOC_CITIZEN_JAPAN_MALE_9}"/>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MURASAME_CHAPTER_CAPSULE_BODY" Text="{LOC_LOADING_INFO_LEADER_MURASAME}"/>
 	</BaseGameText>
 	
 	<LocalizedText>
@@ -25,7 +27,7 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_1"  Text="Hoori"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_2"  Text="Beppu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_3"  Text="Kumamoto"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_4"  Text="Nijō"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_4"  Text="Nijo"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_5"  Text="Kusatsu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_6"  Text="Noboribetsu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SENREN_BANKA_7"  Text="Kurokawa"/>
@@ -79,6 +81,29 @@
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="Norico"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="Narumo"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="Akiho"/>
+
+		<!--Named Places-->
+		<Row Language="en_US" Tag="LOC_NAMED_DESSERT_SENREN_BANKA1" Text="Tottori Sand Dunes"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA1" Text="Goshiki-Numa"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA2" Text="Lake Chuzenji"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA3" Text="Lake Yamanaka"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA4" Text="Lake Shiretoko"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA5" Text="Lake Motosu"/>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SENREN_BANKA6" Text="Lake Tagokura"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA1" Text="Haku Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA2" Text="Tateyama Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA3" Text="Kita Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA4" Text="Hotaka Mountain"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_SENREN_BANKA1" Text="Agano River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_SENREN_BANKA2" Text="Shimanto River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_SENREN_BANKA3" Text="Yubari River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_SENREN_BANKA4" Text="Chitose River"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA1" Text="Mount Yake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA2" Text="Suwanosejima"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA3" Text="Shinmoedake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA4" Text="Mount Kusatsu-Shirane"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA5" Text="Mount Ontake"/>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA6" Text="Mount Aso"/>
 
 		<!--Gameplay-->
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MURASAME"

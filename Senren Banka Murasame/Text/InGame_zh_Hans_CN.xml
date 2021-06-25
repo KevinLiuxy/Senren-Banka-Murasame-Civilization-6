@@ -32,6 +32,29 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_28" Text="松山"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_29" Text="松江"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
+
+		<!--Named Places-->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESSERT_SENREN_BANKA1" Text="鸟取砂丘"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA1" Text="五色沼湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA2" Text="中禅寺湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA3" Text="山中湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA4" Text="知床五湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA5" Text="本栖湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SENREN_BANKA6" Text="田子仓湖"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA1" Text="白山山脉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA2" Text="立山山脉"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA3" Text="北岳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA4" Text="穂高岳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_SENREN_BANKA1" Text="阿贺野川"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_SENREN_BANKA2" Text="四万十川"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_SENREN_BANKA3" Text="夕张川"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_SENREN_BANKA4" Text="千岁川"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA1" Text="烧岳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA2" Text="诹访之濑岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA3" Text="新燃岳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA4" Text="草津白根山"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA5" Text="御岳山"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA6" Text="阿苏山"/>
 		
 		<!--Citizen Names-->
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="将臣"/>

@@ -11,9 +11,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
 			Text="世外和风"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
-			Text="城市到达 7 人口后增长速度 -70%。[NEWLINE]人口数量不高于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值产出；圣地、学院、剧院广场可从森林与山脉中额外获得少量相邻加成。"/>
+			Text="城市到达 7 人口后增长速度 -80%。[NEWLINE]人口数量不高于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值产出；圣地、学院、剧院广场可从森林与山脉中额外获得少量相邻加成。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
-			Text="城市到达 7 人口后增长速度 -70%。[NEWLINE]人口数量不高于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值产出；圣地、学院、剧院广场可从森林与山脉中额外获得少量相邻加成；圣地、剧院广场、商业中心从相邻的火山土和地热裂缝获得大量相邻加成。"/>
+			Text="城市到达 7 人口后增长速度 -80%。[NEWLINE]人口数量不高于 10 点的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 宜居度，+5% [ICON_Culture] 文化值产出；圣地、学院、剧院广场可从森林与山脉中额外获得少量相邻加成；圣地、剧院广场、商业中心从相邻的火山土和地热裂缝获得大量相邻加成。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MURASAME_NAME"
 			Text="丛雨"/>
@@ -34,6 +34,6 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME"
 			Text="和式甜品屋"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
-			Text="解锁建造者建造千恋万花特色改良设施和式甜品屋的能力。[NEWLINE][NEWLINE]+2 [ICON_Gold] 金币、+1 [ICON_Culture] 文化值、+1 魅力。从相邻学院、剧院广场、圣地、商业中心的每座建筑中各获得 +1 [ICON_Science] 科技 [ICON_Culture] 文化 [ICON_Faith] 信仰和 [ICON_Gold] 金币。每个城市只能修建一家和式甜品屋。"/>
+			Text="解锁建造者建造千恋万花特色改良设施和式甜品屋的能力。[NEWLINE][NEWLINE]+2 [ICON_Gold] 金币、+2 [ICON_Culture] 文化值、+1 魅力。从相邻学院、剧院广场、圣地、商业中心的每座建筑中各获得 +1 [ICON_Science] 科技 [ICON_Culture] 文化 [ICON_Faith] 信仰和 [ICON_Gold] 金币。每个城市只能修建一家和式甜品屋。"/>
 	</LocalizedText>
 </GameData>

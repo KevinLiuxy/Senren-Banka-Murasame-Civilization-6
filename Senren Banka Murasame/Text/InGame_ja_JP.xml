@@ -34,7 +34,7 @@
 		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
 
 		<!--Citizen Names-->
-		<Row Language="ja_JP" Tag="LOC_LEADER_MURASAME_NAME" Text="ムラサメ"/>
+		<!--Row Language="ja_JP" Tag="LOC_LEADER_MURASAME_NAME" Text="ムラサメ"/-->
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="将臣"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_2"    Text="安晴"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="玄十郎"/>
@@ -61,9 +61,41 @@
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="秋穗"/>
 
+		<!--Named Places-->
+		<Row Language="ja_JP" Tag="LOC_NAMED_DESSERT_SENREN_BANKA1" Text="鳥取砂丘"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA1" Text="五色沼湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA2" Text="中禅寺湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA3" Text="山中湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA4" Text="知床五湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA5" Text="本栖湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_LAKE_SENREN_BANKA6" Text="田子倉湖"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA1" Text="白山"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA2" Text="立山"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA3" Text="北岳"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA4" Text="穂高岳"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_RIVER_SENREN_BANKA1" Text="阿賀野川"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_RIVER_SENREN_BANKA2" Text="四万十川"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_RIVER_SENREN_BANKA3" Text="夕張川"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_RIVER_SENREN_BANKA4" Text="千歳川"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA1" Text="焼岳"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA2" Text="諏訪之瀬島"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA3" Text="新燃岳"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA4" Text="草津白根山"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA5" Text="御嶽山"/>
+		<Row Language="ja_JP" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA6" Text="阿蘇山"/>
+
 		<!--Gameplay-->
+		<Row Language="ja_JP" Tag="LOC_LOADING_INFO_LEADER_MURASAME"
+			Text="穂織の守護者、ムラサメよ、神々の祝福によりて祟りを克服せし者よ、貴女は幾年もの季節を超えて穂織の地をただ一人見守っている。黄昏の夕星と子供達の声こそ、今日もこの地に命が息づいている証だ。貴女が盟友達と紡いだ絆が解けることはない。十六夜月の下に穂織の輝かしい未来を綴り、理想の大団円を見届けるのだ。"/>
+
 		<Row Language="ja_JP" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
 			Text="ふたつの影"/>
+		<Row Language="ja_JP" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
+			Text="長期にわたって同盟を結ぶ意思のある文明を好み、自分と友好宣言を結ぼうとせず、関係を改善しようとしない文明を嫌う。"/>
+		<Row Language="ja_JP" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_ONLY_KANOJO"
+			Text="ムラサメはあなたとの長期の友好関係に満足している。"/>
+		<Row Language="ja_JP" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_BUILD_HAREM"
+			Text="ムラサメはあなたが彼女との友好関係を維持しなかったことに憤慨している。"/>
 
 		<Row Language="ja_JP" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
 			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
