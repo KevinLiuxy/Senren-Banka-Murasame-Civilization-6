@@ -107,7 +107,7 @@
 
 		<!--Gameplay-->
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MURASAME"
-			Text="Murasame, the guardian of Hoori, blessings of gods have granted you the power to overcome evil. You watch over the land of Hoori alone over the cycles of countless summers and winters. Twinkling lights and sounds of frolic children under the twilight is the sign of life thriving on this land to this date. Maintain long lasting bonds with your allies. Together, you will embellish a shining future and make Hoori a fascinating attraction to people across all nations."/>
+			Text="Murasame, by the works of gods you stand here today as in ages past. The seasons blur like ripples across a silent pond. Still, the twinkling lights of the village, and the children frolicking through the meadows remain. Your curse is a blessing in disguise, use the boundless youth to kindle alliances into so much more. Cast out evil, purify the land, and hold true to the past; they will flock to you from across the globe."/>
 
 		<Row Language="en_US" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
 			Text="Twin Shadows"/>
