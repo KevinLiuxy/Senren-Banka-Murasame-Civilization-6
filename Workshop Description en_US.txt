@@ -7,6 +7,8 @@ Unique improvement "Kanmidokoro" (Japanese dessert cafe) inspires people nearby 
 
 This Mod also contains 40 minutes of Senren Banka game music. They can play alongside other civilization's music.
 
+[b][u]The Leader Graphical Setting MUST be set to Medium or High. 3D model will not show properly when set to Low.[/u][/b]
+
 [h1]Mod Highlights[/h1][list]
 [*][b]Fully Voiced Murasame-Chan[/b]
 All leader speeches are quoted directly from Senren Banka. Murasame has 17 unique lines in the diplomacy screen. (And more surprises from the in-game menu!)
