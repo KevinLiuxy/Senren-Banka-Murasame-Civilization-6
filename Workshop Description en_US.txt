@@ -17,7 +17,7 @@ All leader speeches are quoted directly from Senren Banka. Murasame has 17 uniqu
 The Leader model for the Infantile Knife (Murasame) contains 3 postures and 25 unique expressions. The animations are reproduced from the original Senren Banka game with care. [spoiler]And If you mistreat her, she'll cry QaQ[/spoiler]
 
 [*][b]Compatible with Civilization Japan[/b]
-The city names of Senren Banka are drawn from the most famous onsen resorts in Japan, some of the ancient citiesl, and tourist destinations. City names and geographical names do not collide with Japan in the game.[/list]
+The city names of Senren Banka are drawn from the most famous onsen resorts in Japan, some of the ancient cities, and tourist destinations. City names and geographical names do not collide with Japan in the game.[/list]
 
 [h1]Special Thanks[/h1]
 1. Huge thanks to [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] (leader speech) and [url=steamcommunity.com/profiles/76561198227272780]Hemmelfort[/url] (leader animation) for their technical support. This mod wouldn't be possible without their findings.

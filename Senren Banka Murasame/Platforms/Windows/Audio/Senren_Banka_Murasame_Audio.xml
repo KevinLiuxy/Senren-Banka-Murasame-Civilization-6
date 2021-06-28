@@ -22,10 +22,14 @@
 	</StreamedFiles>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="67078863" Language="SFX">
-			<ShortName>Senren_Banka_Murasame_Speech</ShortName>
-			<Path>Senren_Banka_Murasame_Speech.bnk</Path>
+		<SoundBank Id="4278036933" Language="SFX">
+			<ShortName>Senren_Banka_Murasame_Audio</ShortName>
+			<Path>Senren_Banka_Murasame_Audio.bnk</Path>
 			<IncludedEvents>
+				<Event Id="2290212435" Name="Pause_Music_SENREN_BANKA"/>
+				<Event Id="2061530079" Name="Play_Leader_Music_SENREN_BANKA"/>
+				<Event Id="4055407737" Name="Play_Music_SENREN_BANKA"/>
+				<Event Id="815572424" Name="Resume_Music_SENREN_BANKA"/>
 				<Event Id="2669471972" Name="SRBK_MS_DECLARE_FRIEND"/>
 				<Event Id="1222117850" Name="SRBK_MS_DECLARE_WAR_FROM_AI"/>
 				<Event Id="610164531" Name="SRBK_MS_DECLARE_WAR_FROM_HUMAN"/>
@@ -52,7 +56,16 @@
 				<Event Id="1532974644" Name="SRBK_MS_UNHAPPY_POSITIVE"/>
 				<Event Id="3128637243" Name="SRBK_MS_WARNING"/>
 				<Event Id="1941182488" Name="SRBK_MS_WIKI_QUOTE"/>
+				<Event Id="4234659921" Name="Start_Music_SENREN_BANKA"/>
+				<Event Id="1447451637" Name="Stop_Leader_Music_SENREN_BANKA"/>
+				<Event Id="3454254955" Name="Stop_Music_SENREN_BANKA"/>
 			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="233801545"/>
+				<File Id="289965361"/>
+				<File Id="488894370"/>
+				<File Id="703743949"/>
+			</ReferencedStreamedFiles>
 			<IncludedMemoryFiles>
 				<File Id="51201156" Language="SFX">
 					<ShortName>SRBK_MS_MENU_EXTRA.wav</ShortName>
@@ -159,25 +172,6 @@
 					<Path>SFX\SRBK_MS_MENU_TITLE_50328C8D.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
-		</SoundBank>
-		<SoundBank Id="1817011226" Language="SFX">
-			<ShortName>Senren_Banka_Murasame_Music</ShortName>
-			<Path>Senren_Banka_Murasame_Music.bnk</Path>
-			<IncludedEvents>
-				<Event Id="2290212435" Name="Pause_Music_SENREN_BANKA"/>
-				<Event Id="2061530079" Name="Play_Leader_Music_SENREN_BANKA"/>
-				<Event Id="4055407737" Name="Play_Music_SENREN_BANKA"/>
-				<Event Id="815572424" Name="Resume_Music_SENREN_BANKA"/>
-				<Event Id="4234659921" Name="Start_Music_SENREN_BANKA"/>
-				<Event Id="1447451637" Name="Stop_Leader_Music_SENREN_BANKA"/>
-				<Event Id="3454254955" Name="Stop_Music_SENREN_BANKA"/>
-			</IncludedEvents>
-			<ReferencedStreamedFiles>
-				<File Id="233801545"/>
-				<File Id="289965361"/>
-				<File Id="488894370"/>
-				<File Id="703743949"/>
-			</ReferencedStreamedFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

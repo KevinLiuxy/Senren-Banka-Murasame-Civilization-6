@@ -11,7 +11,6 @@
 							</ChildrenList>
 						</Bus>
 						<Bus Name="a4zeqgn" ID="{29B5D3CC-7076-4A8A-A2C6-B322E14AEC2A}"/>
-						<AuxBus Name="agapnlb" ID="{476BD40C-05AB-444A-AD0B-FE16D8BEEE27}"/>
 					</ChildrenList>
 				</Bus>
 				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}"/>

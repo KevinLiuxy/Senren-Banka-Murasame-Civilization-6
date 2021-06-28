@@ -63,7 +63,7 @@
 			Text="Your words cut me deeply, Master! Take Responsibility![NEWLINE]Put 'em up! This will hurt, prepare yourself, Master!"
 />		<!--Chapter 7-3-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY"
-			Text="Wh-Why...? I-I tried so hard to hold it in... I told my self I would never cry in front of anyone else...[NEWLINE]How could you do this to me, Master！"
+			Text="Wh-Why...? I-I tried so hard to hold it in... I told my self I would never cry in front of anyone else...[NEWLINE]How could you do this to me, Master!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MURASAME_ANY"
 			Text="{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY}"

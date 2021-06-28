@@ -34,7 +34,6 @@
 		<Row Language="ja_JP" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
 
 		<!--Citizen Names-->
-		<!--Row Language="ja_JP" Tag="LOC_LEADER_MURASAME_NAME" Text="ムラサメ"/-->
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="将臣"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_2"    Text="安晴"/>
 		<Row Language="ja_JP" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="玄十郎"/>

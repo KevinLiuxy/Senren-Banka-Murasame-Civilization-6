@@ -24,9 +24,6 @@
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
 								</Reference>
-								<Reference Name="UserAuxSend0">
-									<ObjectRef Name="agapnlb" ID="{476BD40C-05AB-444A-AD0B-FE16D8BEEE27}" WorkUnitID="{13AD97B0-C71C-4591-B778-84496DDC7623}"/>
-								</Reference>
 							</ReferenceList>
 							<ChildrenList>
 								<ActorMixer Name="ID424381547" ID="{E399A0E0-E25B-4147-9D6C-4D2CF2EE3039}" ShortID="424381547">

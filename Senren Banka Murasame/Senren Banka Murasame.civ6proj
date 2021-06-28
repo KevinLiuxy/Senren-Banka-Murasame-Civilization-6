@@ -5,7 +5,7 @@
     <Name>MOD_SENREN_BANKA_MURASAME</Name>
     <Guid>f492490c-8930-4c13-ab06-27ab842490b2</Guid>
     <ProjectGuid>177335ed-fc9f-42d7-b18d-ffd131211852</ProjectGuid>
-    <ModVersion>1.2</ModVersion>
+    <ModVersion>1.3</ModVersion>
     <Teaser>LOC_MOD_SENREN_BANKA_MURASAME_TEASER</Teaser>
     <Description>LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
@@ -18,7 +18,7 @@
     <AssemblyName>Senren Banka Murasame</AssemblyName>
     <RootNamespace>Senren Banka Murasame</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Config.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_FRONTEND"><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_FRONTEND"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Config_ja_JP.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Civilization.sql</File><File>Data/SenrenBanka_Leader.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP2"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>Expansion2</Criteria><File>Data/SenrenBanka_Expansion2.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_ETHIOPIA"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>Ethiopia</Criteria><File>Data/SenrenBanka_DLC_Ethiopia.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_VIETNAM"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>KublaiKhanVietnam</Criteria><File>Data/SenrenBanka_DLC_KublaiKhanVietnam.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_PATCH"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>ReligionExpanded</Criteria><File>Data/SenrenBanka_ReligionExpanded.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/InGame_ja_JP.xml</File><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Murasame_en_US.xml</File><File>Text/Murasame_zh_Hans_CN.xml</File><File>Text/Config_ja_JP.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Platforms/MacOS/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Speech.xml</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Speech.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_SoundBanks.ini</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Speech.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Speech.bnk</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Music.xml</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Music.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Music.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Music.bnk</File></UpdateAudio><ImportFiles id="SENREN_BANKA_REPLACE"><Criteria>LEADER_PLAYABLE</Criteria><File>UI/InGameTopOptionsMenu.lua</File><File>UI/Expansion1_InGameTopOptionsMenu.lua</File></ImportFiles></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Civilization.sql</File><File>Data/SenrenBanka_Leader.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_EXP2"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>Expansion2</Criteria><File>Data/SenrenBanka_Expansion2.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_ETHIOPIA"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>Ethiopia</Criteria><File>Data/SenrenBanka_DLC_Ethiopia.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_VIETNAM"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>KublaiKhanVietnam</Criteria><File>Data/SenrenBanka_DLC_KublaiKhanVietnam.sql</File></UpdateDatabase><UpdateDatabase id="SENREN_BANKA_PATCH"><Criteria>LEADER_PLAYABLE</Criteria><Criteria>ReligionExpanded</Criteria><File>Data/SenrenBanka_ReligionExpanded.sql</File></UpdateDatabase><UpdateColors id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Colors.sql</File></UpdateColors><UpdateIcons id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Data/SenrenBanka_Icons.xml</File></UpdateIcons><UpdateText id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/InGame_ja_JP.xml</File><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/Murasame_en_US.xml</File><File>Text/Murasame_zh_Hans_CN.xml</File><File>Text/Config_ja_JP.xml</File></UpdateText><UpdateArt id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="SENREN_BANKA_INGAME"><Criteria>LEADER_PLAYABLE</Criteria><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Audio.ini</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Audio.ini</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Audio.xml</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Audio.xml</File><File>Platforms/MacOS/Audio/Senren_Banka_Murasame_Audio.bnk</File><File>Platforms/Windows/Audio/Senren_Banka_Murasame_Audio.bnk</File></UpdateAudio><ImportFiles id="SENREN_BANKA_REPLACE"><Criteria>LEADER_PLAYABLE</Criteria><File>UI/InGameTopOptionsMenu.lua</File><File>UI/Expansion1_InGameTopOptionsMenu.lua</File></ImportFiles></InGameActions>]]></InGameActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LEADER_PLAYABLE"><LeaderPlayable>Players:Expansion1_Players::LEADER_MURASAME,Players:Expansion2_Players::LEADER_MURASAME</LeaderPlayable></Criteria><Criteria id="Expansion2"><GameCoreInUse>Expansion2</GameCoreInUse></Criteria><Criteria id="Ethiopia"><ModInUse>1B394FE9-23DC-4868-8F0A-5220CB8FB427</ModInUse></Criteria><Criteria id="KublaiKhanVietnam"><ModInUse>A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C</ModInUse></Criteria><Criteria id="ReligionExpanded"><ModInUse>c6775ded-6693-474a-ade5-b4c51d932bd8</ModInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssociationData><![CDATA[<Associations><Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9"/></Associations>]]></AssociationData>
   </PropertyGroup>
@@ -92,19 +92,13 @@
     <Content Include="Platforms\MacOS\Audio\703743949.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Music.bnk">
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Audio.bnk">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Music.xml">
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Audio.ini">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Speech.bnk">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Speech.xml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Platforms\MacOS\Audio\Senren_Banka_SoundBanks.ini">
+    <Content Include="Platforms\MacOS\Audio\Senren_Banka_Murasame_Audio.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\MacOS\BLPs\DLC_Landmarks.blp">
@@ -146,19 +140,13 @@
     <Content Include="Platforms\Windows\Audio\703743949.wem">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Music.bnk">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Audio.bnk">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Music.xml">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Audio.ini">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Speech.bnk">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Speech.xml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Platforms\Windows\Audio\Senren_Banka_SoundBanks.ini">
+    <Content Include="Platforms\Windows\Audio\Senren_Banka_Murasame_Audio.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Platforms\Windows\BLPs\DLC_Landmarks.blp">
