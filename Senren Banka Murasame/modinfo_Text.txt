@@ -12,7 +12,9 @@
       <ja_JP>新たな文明と指導者：千恋万花のムラサメ</ja_JP>
     </Text>
     <Text id="LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION">
-      <en_US>--- Senren Banka Civilization ---[NEWLINE]New Leader: Murasame (Aya)[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]en_US, ja_JP, zh_Hans_CN[NEWLINE][NEWLINE]Enjoy!</en_US>
-      <zh_Hans_CN>--- “千恋万花”文明 ---[NEWLINE]领袖：丛雨（绫）[NEWLINE][NEWLINE]支持的语言：[NEWLINE]en_US, ja_JP, zh_Hans_CN[NEWLINE][NEWLINE]玩得开心！</zh_Hans_CN>
+      <en_US>--- Senren Banka Civilization ---[NEWLINE]New Leader: Murasame (Aya)[NEWLINE][NEWLINE]Supported Languages:[NEWLINE]English, Japanese, Simplified/Traditional Chinese[NEWLINE][NEWLINE]Enjoy!</en_US>
+      <zh_Hans_CN>--- “千恋万花”文明 ---[NEWLINE]领袖：丛雨（绫）[NEWLINE][NEWLINE]支持的语言：[NEWLINE]English，日本語，简体中文，繁體中文[NEWLINE][NEWLINE]玩得开心！</zh_Hans_CN>
+      <zh_Hant_HK>--- “千戀萬花”文明 ---[NEWLINE]領袖：叢雨（綾）[NEWLINE][NEWLINE]支持的語言：[NEWLINE]English，日本語，简体中文，繁體中文[NEWLINE][NEWLINE]玩得開心！</zh_Hant_HK>
+      <ja_JP>--- “千恋万花”文明 ---[NEWLINE]指導者：ムラサメ（綾）[NEWLINE][NEWLINE]サポートされている言語：[NEWLINE]English，日本語，简体中文，繁體中文[NEWLINE][NEWLINE]ありがとうございました！</ja_JP>
     </Text>
   </LocalizedText>

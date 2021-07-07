@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="千戀萬花"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="千戀＊萬花"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_SENREN_BANKA_ADJECTIVE"
+			Text="千戀萬花"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME"
+			Text="世外和風"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION"
+			Text="城市到達 7 人口後增長速度 -80%。[NEWLINE]人口數量不高於 10 點的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 滿意度，+5% [ICON_Culture] 文化值產出；聖地、學院、劇院廣場可從森林與山脈中額外獲得少量相鄰加成。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SENREN_BANKA_DESCRIPTION_GS"
+			Text="城市到達 7 人口後增長速度 -80%。[NEWLINE]人口數量不高於 10 點的城市：[NEWLINE]+1 魅力，+1 [ICON_Amenities] 滿意度，+5% [ICON_Culture] 文化值產出；聖地、學院、劇院廣場可從森林與山脈中額外獲得少量相鄰加成；聖地、劇院廣場、商業中心從相鄰的火山土和地熱裂隙獲得大量相鄰加成。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_LEADER_MURASAME_NAME"
+			Text="叢雨"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_NAME"
+			Text="穗織的守護神"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION"
+			Text="可用 [ICON_Faith] 信仰值購買陸地戰鬥單位。單位在擁有聖地的己方城市作戰時 +7 [ICON_Strength] 戰鬥力，與溫泉鎮相鄰時 +15 [ICON_Damaged] 生命值回復。[NEWLINE]不會降低單位格魅力值的區域可以建造在森林中，購買單位格的花費 -40%，但砍伐森林與收穫資源的收益 -60%。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_GUARDIAN_OF_HOORI_DESCRIPTION_GS"
+			Text="可用 [ICON_Faith] 信仰值購買陸地戰鬥單位。單位在擁有聖地的己方城市作戰時 +7 [ICON_Strength] 戰鬥力，與地熱裂隙或溫泉鎮相鄰時 +15 [ICON_Damaged] 生命值回復。[NEWLINE]不會降低單位格魅力值的區域可以建造在森林中，購買單位格的花費 -40%，但砍伐森林與收穫資源的收益 -60%。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_NAME"
+			Text="溫泉鎮"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION"
+			Text="千戀萬花特色區域，替代水渠，建造費用更低。與山脈相鄰時，提供 +1 [ICON_Amenities] 滿意度，所在城市 +33% [ICON_Tourism] 旅遊業績。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ONSEN_TOWN_DESCRIPTION_GS"
+			Text="千戀萬花特色區域，替代水渠，建造費用更低。此城地熱裂隙 +3 [ICON_Culture] 文化值。[NEWLINE]與火山、火山土、或地熱裂隙相鄰時，提供 +1 [ICON_Amenities] 滿意度，所在城市 +33% [ICON_Tourism] 旅遊業績。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_NAME"
+			Text="和式甜品屋"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KANMIDOKORO_DESCRIPTION"
+			Text="解鎖建造者建造千戀萬花特色改良設施和式甜品屋的能力。[NEWLINE][NEWLINE]+2 [ICON_Gold] 金幣、+2 [ICON_Culture] 文化值、+1 魅力。從相鄰學院、劇院廣場、聖地、商業中心的每座建築中各獲得 +1 [ICON_Science] 科技 [ICON_Culture] 文化 [ICON_Faith] 信仰和 [ICON_Gold] 金幣。每個城市只能修建一家和式甜品屋。"/>
+	</LocalizedText>
+</GameData>

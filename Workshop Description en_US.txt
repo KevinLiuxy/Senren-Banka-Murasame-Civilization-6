@@ -22,7 +22,7 @@ The city names of Senren Banka are drawn from the most famous onsen resorts in J
 [h1]Special Thanks[/h1]
 1. Huge thanks to [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url] (leader speech) and [url=steamcommunity.com/profiles/76561198227272780]Hemmelfort[/url] (leader animation) for their technical support. This mod wouldn't be possible without their findings.
 2. A big thanks to my friend [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] for ideas, suggestions, and testing.
-3. A big thanks to my fellow Modder [url=steamcommunity.com/id/AmaHina]Amamiya_Hinaki[/url] for providing Japanese localization.
+3. A big thanks to my fellow Modder [url=steamcommunity.com/id/AmaHina]Amamiya_Hinaki[/url] for providing Japanese localization, and [url=steamcommunity.com/profiles/76561198068777223]chjimmy[/url] for traditional Chinese localization.
 
 Thanks again for everyone's support! Making an animated and voiced leader is significantly more challenging and time-consuming (spent 200+ hrs), but I am glad I was finally able to finish it. Please let me know if you find any bugs in the mod. You're all the best ☆
 

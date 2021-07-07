@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--first meet-->
+		<!--Chapter 1-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MURASAME_ANY"
+			Text="哦？看你如此吃驚，想必是看得見本座，也能聽見本座說話吧。[NEWLINE]吾名叢雨——你，就是本座的主人嗎？"
+/>		<!--Chapter 5-2--><!--Chapter 8-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MURASAME_ANY"
+			Text="對本座這種本地人來說再自然不過的東西，對主人這樣的外來人來說，可能就是十分新奇的東西。想要來體會一下穗織身在桃源鄉般的愜意嗎？"
+/>		<!--Chapter 6-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MURASAME_ANY"
+			Text="哦？你城市裡的咖啡廳還有這種服務啊——好想趁這個機會去體驗一次看看…"
+/>		<!--Chapter 7-2--><!--Chapter 6-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MURASAME_ANY"
+			Text="穗織是一片肥沃的土地，我們有幸得它恩澤。主人能告訴本座，你來穗織之前都在哪裡、平時都做些什麼嗎？"
+/>
+		<!--deligation-->
+		<!--Chapter 7-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="本座明白了。主人如此真摯的對待本座，又這樣為本座著想，本座真的好高興……"
+/>		<!--Chapter 3-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="恕本座拒絕，本座可不想被捲入麻煩裡。"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MURASAME_ANY"
+			Text="本座為主人帶來了穗織的特產——裡面有溫泉水裡煮出的新鮮雞蛋，還有田心屋最棒的禦神刀帕菲……不必多禮，盡情地享用吧。"
+/>
+		<!--friendship-->
+		<!--Chapter 5-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="嘻嘻…主人果然又誠實又溫柔……喜歡上了主人這樣的人，本座真是幸運……"
+/>		<!--Chapter 4-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="等你成為對本座胃口的穩重之人了再說這話吧；少說得大本座30歲才行。"
+/>		<!--Chapter 8-1--><!--Chapter 5-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="主人呐，本座最近就在想……難不成本座是為了和主人相遇，才在冥冥中度過了這幾百年嗎……[NEWLINE]如果是這樣的話，本座想要讓這份思慕得到一個結果…"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MURASAME_ANY}"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MURASAME_ANY"
+			Text="什，什麼！？你打算拋棄本座嗎，主人——你不想和本座一起生活嗎！？"
+/>		<!--Chapter 5-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="不是很瞭解穗織的主人，和知道穗織每一個細節的本座——我們兩個人做搭檔，一定能想出絕妙的點子來！"
+/>
+		<!--denounce-->
+		<!--Chapter 2-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="什麼，真是失禮！這是侮辱！主人，你這是在侮辱本座！"
+/>		<!--Chapter 2-5--><!--Chapter 3-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MURASAME_ANY"
+			Text="真是個混帳東西！沒想到主人居然隨口說出這種下流的話……你這蠢蛋、憨瓜、呆皮！[NEWLINE]（譴責你）"
+/>
+		<!--warfare-->
+		<!--Chapter 1-1--><!--Chapter 2-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="你，你說什麼？你你你你你是在愚弄本座嗎？還想不想要自己的小命了，主人…"
+/>		<!--Chapter 4-4--><!--Chapter 1-1--><!--Chapter 3-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MURASAME_ANY"
+			Text="本座的少女心被你深深地傷害了，主人，你得負責！本座要跟你單挑！[NEWLINE]你可別嫌疼啊，主人！本座要上了！"
+/>		<!--Chapter 7-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY"
+			Text="為、什麼會這樣？本座明明，都忍了那麼久……明明已經決定了，不在別人面前哭泣……嗚嗚，主人好過分啊！"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MURASAME_ANY"
+			Text="{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MURASAME_ANY}"
+/>
+		<!--agenda-->
+		<!--Chapter 8-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MURASAME_ANY"
+			Text="主人啊，你為了穗織，為了本座，居然做到這一步……本座好高興……"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_KUDO_LEADER_MURASAME_REASON_ANY"
+			Text="（您和叢雨結下了長久的羈絆）"
+/>		<!--Chapter 5-3--><!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MURASAME_ANY"
+			Text="喂，主人，你臉紅個什麼啊！本座就在你身邊還敢這樣貪戀女色！就不能正經一點嗎！現代社會可容不得你建後宮！"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_LEADER_MURASAME_REASON_ANY"
+			Text="（您沒有主動改善和叢雨的關係）"
+/>
+		<!--make deals-->
+		<!--Chapter 4-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_NEUTRAL"
+			Text="本座心懷對主人的感激。"
+/>		<!--Chapter 2-5-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_HAPPY"
+			Text="嗯。謝謝主人！"
+/>		<!--Chapter 4-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_UNHAPPY"
+			Text="那就好……"
+/>		<!--Chapter 4-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_NEUTRAL"
+			Text="為什麼呀，主人？"
+/>		<!--Chapter 5-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_HAPPY"
+			Text="沒事，你的好意本座心領了。"
+/>		<!--Chapter 5-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MURASAME_UNHAPPY"
+			Text="這可讓人高興不起來啊，主人……"
+/>
+		<!--troops-->
+		<!--Chapter 6-2--><!--Chapter 5-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MURASAME_ANY"
+			Text="…哼，又搞突然襲擊啊，主人，莫非你是故意的？！……要真有那樣的蠢材，本座就去了結他。"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="本座只是偶然路過，順便來看看主人而已……完全、絕對、一丁點都沒有別的想法！"
+/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MURASAME_ANY}"
+/>		<!--Chapter 3-6-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="是嗎……是本座誤會了啊……"
+/>
+		<!--settling-->
+		<!--Chapter 6-4--><!--Chapter 5-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_MURASAME_ANY"
+			Text="如你所知，穗織確實是個特殊的地方。從長遠來看，讓主人留在這裡不是好事。不適可而止的話本座現在就賞你一記天罰哦！"
+/>		<!--Chapter 4-2--><!--Chapter 5-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="好吧……這下滿意了吧，主人？……本座的主人真是愛瞎操心啊。"
+/>		<!--Chapter 4-1--><!--Chapter 6-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="這可不行。本座、主人還有叢雨丸要一直住在一起！有主人陪著，本座也更放心……"
+/>		<!--Chapter 4-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="主人的這番心思值得欽佩。"
+/>		<!--Chapter 4-3--><!--Chapter 6-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="不，這樣做很奇怪呀，主人……別以為能靠這麼明顯的裝傻就能逃過去！"
+/>
+		<!--spying-->
+		<!--Chapter 1-2--><!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_MURASAME_ANY"
+			Text="本座覺得，你現在想掩飾也為時已晚了——[NEWLINE]別隨便偷聽少女的自言自語！主人，這樣太沒修養了！"
+/>		<!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="唔，被發現了啊……竟然能注意到本座的氣息……[NEWLINE]主人，本座明白你的想法了。"
+/>		<!--Chapter 4-2--><!--Chapter 1-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="不，本座並沒有做什麼，只是存在於此罷了。用不著擺出那麼恐怖的表情吧……"
+/>		<!--Chapter 3-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="此話當真？"
+/>		<!--Chapter 2-7-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="唔、喂，不要留下這麼微秒的反應就算了！會讓本座更加在意的啊！"
+/>
+		<!--conversion-->
+		<!--Chapter 5-3--><!--Chapter 5-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_MURASAME_ANY"
+			Text="你這般舉動太可疑了，主人！怎麼弄的像宗教人士傳教一樣？！主人的思想都被世俗所毒害了！"
+/>		<!--Chapter 4-2--><!--Chapter 4-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="唉…知道了知道了……主人對本座太操心了，以後頭髮會掉的很快的哦。"
+/>		<!--Chapter 6-1--><!--Chapter 4-2-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="你、你在瞎說什麼呢，這又不怪本座！主人，你不要賴在本座身上！"
+/>		<!--Chapter 5-1-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_MURASAME_ANY"
+			Text="本座很高興能聽到主人你這麼說。謝謝你，主人…"
+/>		<!--Chapter 4-1--><!--Chapter 5-3-->
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_MURASAME_ANY"
+			Text="……唉，本座的主人還真是頑固。本座真是看錯你了！"/>
+
+		<!--Civilopedia-->
+		<!--Chapter 6-4-->
+		<Row Language="zh_Hant_HK" Tag="LOC_PEDIA_LEADERS_PAGE_MURASAME_QUOTE"
+			Text="要珍惜你的家人。常言道：樹欲靜而風不止，子欲養而親不待。"/>
+	</LocalizedText>
+</GameData>

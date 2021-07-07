@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--City Names-->
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_1"  Text="穗織"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_2"  Text="別府"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_3"  Text="熊本"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_4"  Text="二條"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_5"  Text="草津"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_6"  Text="登別"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_7"  Text="黑川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_8"  Text="奈良"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_9"  Text="道後"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_10" Text="江戶"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_11" Text="箱根"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_12" Text="由布院"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_13" Text="城崎"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_14" Text="指宿"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_15" Text="松本"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_16" Text="長筱"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_17" Text="下呂"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_18" Text="安土"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_19" Text="金澤"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_20" Text="富良野"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_21" Text="小田原"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_22" Text="銀山"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_23" Text="涉穀"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_24" Text="佐賀"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_25" Text="有馬"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_26" Text="鳥棲"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_27" Text="月山富田"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_28" Text="松山"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_29" Text="松江"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SENREN_BANKA_30" Text="犬山"/>
+
+		<!--Named Places-->
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_DESSERT_SENREN_BANKA1" Text="鳥取砂丘"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA1" Text="五色沼湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA2" Text="中禪寺湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA3" Text="山中湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA4" Text="知床五湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA5" Text="本棲湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_LAKE_SENREN_BANKA6" Text="田子倉湖"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA1" Text="白山山脈"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA2" Text="立山山脈"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA3" Text="北嶽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_MOUNTAIN_SENREN_BANKA4" Text="穂高嶽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_SENREN_BANKA1" Text="阿賀野川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_SENREN_BANKA2" Text="四萬十川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_SENREN_BANKA3" Text="夕張川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_RIVER_SENREN_BANKA4" Text="千歲川"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA1" Text="燒嶽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA2" Text="諏訪之瀨島"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA3" Text="新燃嶽"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA4" Text="草津白根山"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA5" Text="禦嶽山"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_VOLCANO_SENREN_BANKA6" Text="阿蘇山"/>
+		
+		<!--Citizen Names-->
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_1"    Text="將臣"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_2"    Text="安晴"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_3"    Text="玄十郎"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_4"    Text="廉太郎"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_5"    Text="幸弘"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_6"    Text="忠興"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_MALE_7"    Text="一豐"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_1"  Text="芳乃"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_2"  Text="茉子"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_3"  Text="蕾娜"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_4"  Text="小春"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_5"  Text="蘆花"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_6"  Text="美津葉"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_7"  Text="心子"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_8"  Text="比奈實"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_9"  Text="叢雲"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_10" Text="甯寧"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_11" Text="愛瑠"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_12" Text="䌷"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_13" Text="憧子"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_14" Text="和奏"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_15" Text="都子"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_16" Text="典子"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_17" Text="成美"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SENREN_BANKA_FEMALE_18" Text="秋穗"/>
+
+		<!--Gameplay-->
+		<Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_MURASAME"
+			Text="穗織的守護者叢雨，神明的眷顧賦予了您戰勝邪惡的力量。跨越了無數年的春夏秋冬，您獨自一人守望著穗織的大地。夕陽下闌珊的燈火和孩童們的嬉鬧，是這片土地時至今日仍舊生生不息的象徵。珍惜與他人相連的羈絆，與盟友一同點綴嶄新的的未來，讓穗織成為大家心馳神往的文化勝地吧。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_NAME"
+			Text="形影成雙"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_FUTATSU_NO_KAGE_DESCRIPTION"
+			Text="喜歡長期宣佈友好關係或結盟的文明。討厭不願宣佈友好，且不試圖與她建立關係的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_ONLY_KANOJO"
+			Text="叢雨珍惜與你之間產生的羈絆"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_FUTATSU_NO_KAGE_BUILD_HAREM"
+			Text="叢雨不願看到你忽視和她之間的關係"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE1"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE2"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE2}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE3"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE3}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE4"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE4}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_SCIENCE5"
+			Text="{LOC_DISTRICT_MOUNTAINS_SCIENCE5}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH1"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH1}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH2"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH2}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH3"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH3}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH4"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH4}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_FAITH5"
+			Text="{LOC_DISTRICT_MOUNTAIN_FAITH5}（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE1"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰山脈單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE2"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰山脈單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE3"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰山脈單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE4"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰山脈單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_MOUNTAINS_CULTURE5"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰山脈單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_FOREST_SCIENCE"
+			Text="+{1_num} [ICON_Science] 科技值來自相鄰樹林單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_FOREST_FAITH"
+			Text="+{1_num} [ICON_Faith] 信仰值來自相鄰樹林單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_FOREST_CULTURE"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰樹林單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_GOLD"
+			Text="+{1_num} [ICON_Gold] 金幣來自相鄰火山灰土單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_FAITH"
+			Text="+{1_num} [ICON_Faith] 信仰值來自相鄰火山灰土單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_VOLCANIC_SOIL_CULTURE"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰火山灰土單元格。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_GOLD"
+			Text="+{1_num} [ICON_Gold] 金幣來自相鄰的地熱裂隙。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_FAITH"
+			Text="+{1_num} [ICON_Faith] 信仰值來自相鄰的地熱裂隙。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_SRBK_DISTRICT_GEOTHERMAL_CULTURE"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰的地熱裂隙。（{LOC_TRAIT_CIVILIZATION_SENREN_BANKA_NAME}）"/>
+	</LocalizedText>
+</GameData>
