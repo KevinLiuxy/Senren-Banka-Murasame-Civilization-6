@@ -69,7 +69,7 @@
 				<m_ParamName text="TranslucencyColor"/>
 			</Element>
 			<Element class="AssetObjects..BoolValue">
-				<m_bValue>false</m_bValue>
+				<m_bValue>true</m_bValue>
 				<m_ParamName text="ForceTransparency"/>
 			</Element>
 		</m_Values>

@@ -7,8 +7,6 @@
 
 这个Mod还包含40分钟的千恋万花游戏背景音乐，并能与其他游戏文明和Mod文明的音乐一起播放。
 
-[b][u]注意：图形设置中“栩栩如生的领袖”必须设为中或者高。设置为低的时候模型无法被正确加载。[/u][/b]
-
 [h1]游戏特色[/h1][list]
 [*][b]全程配音的丛雨酱[/b]
 丛雨所有的台词和全部的语音都来自千恋＊万花游戏剧情，外交界面总共有17段丛雨倾情演绎的对话。（游戏的内菜单还有额外的彩蛋哦~）
@@ -21,7 +19,7 @@
 
 [h1]特别鸣谢[/h1]
 1. 首先感谢 [url=steamcommunity.com/profiles/76561198402598762]岛村卯月[/url]（领袖语音）和 [url=steamcommunity.com/profiles/76561198227272780]Hemmelfort[/url]（领袖动画）大大提供的技术支持，没有他们的研究成果就不会有这个Mod。
-2. 感谢我的好友 [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] 在构思、测试、和意见反馈上的帮助。
+2. 感谢我的好友 [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] 在构思、测试、还有制作宣传视频上的帮助。
 3. 感谢日本 Modder [url=steamcommunity.com/id/AmaHina]Amamiya_Hinaki[/url] 提供的日文翻译；感谢 [url=steamcommunity.com/profiles/76561198068777223]chjimmy[/url] 提供的繁体中文文本。
 
 再次感谢大家的支持！这次制作动态领袖丛雨确实花了不少功夫，我也很高兴能让丛雨酱成为第一个有动画配音的二次元领袖。如果遇到了Bug或者有什么建议请在下面留言告诉我；如果你在制作文明6 Mod的时候有什么问题、或想要让我参与制作别的二次元领袖，欢迎与我联系 ☆
