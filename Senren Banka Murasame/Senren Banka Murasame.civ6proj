@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <Name>MOD_SENREN_BANKA_MURASAME</Name>
     <Guid>f492490c-8930-4c13-ab06-27ab842490b2</Guid>
     <ProjectGuid>177335ed-fc9f-42d7-b18d-ffd131211852</ProjectGuid>
-    <ModVersion>1.6</ModVersion>
+    <ModVersion>1.7</ModVersion>
     <Teaser>LOC_MOD_SENREN_BANKA_MURASAME_TEASER</Teaser>
     <Description>LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
@@ -51,6 +51,12 @@
       <SubType>Content</SubType>
     </ArtDef>
     <ArtDef Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Overlay.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Units.artdef">
       <SubType>Content</SubType>
     </ArtDef>
     <Content Include="Data\SenrenBanka_Civilization.sql">
@@ -215,6 +221,15 @@
     <Content Include="UI\InGameTopOptionsMenu.lua">
       <SubType>Content</SubType>
     </Content>
+    <XLP Include="XLPs\Civilization_LeaderFallBack.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+    <XLP Include="XLPs\StrategicView_UILenses.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+    <XLP Include="XLPs\UILensModels.xlp">
+      <SubType>Content</SubType>
+    </XLP>
     <XLP Include="XLPs\Civilization_Leader.xlp">
       <SubType>Content</SubType>
     </XLP>

@@ -6,12 +6,16 @@
 		<build>0</build>
 		<revision>0</revision>
 	</m_Version>
-	<m_ClassName text="LeaderFallback"/>
-	<m_PackageName text="Civilization_LeaderFallBack"/>
+	<m_ClassName text="UILensAsset"/>
+	<m_PackageName text="UILensAssets"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="FALLBACK_LEADER_MURASAME"/>
-			<m_ObjectName text="FALLBACK_LEADER_MURASAME"/>
+			<m_EntryID text="Loyalty_Pressure_SenrenBanka_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_SenrenBanka_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_SenrenBanka_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_SenrenBanka_Box"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

@@ -138,7 +138,7 @@
 			<m_ObjectName text="MURASAME_4"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BACKGROUND_MURASAME"/>
+			<m_EntryID text="LEADER_MURASAME_BACKGROUND"/>
 			<m_ObjectName text="BACKGROUND_MURASAME"/>
 		</Element>
 		<Element>
@@ -150,7 +150,7 @@
 			<m_ObjectName text="MOMENT_IMPROVEMENT_KANMIDOKORO"/>
 		</Element>
 		<Element>
-			<m_EntryID text="FOREGROUND_MURASAME"/>
+			<m_EntryID text="LEADER_MURASAME_NEUTRAL"/>
 			<m_ObjectName text="FOREGROUND_MURASAME"/>
 		</Element>
 		<Element>
@@ -169,4 +169,3 @@
 		<Element>LINUX</Element>
 	</m_AllowedPlatforms>
 </AssetObjects..XLP>
-
