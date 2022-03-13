@@ -264,13 +264,18 @@
 		</Element>
 		<Element>
 			<consumerName text="Civilizations"/>
-			<relativeArtDefPaths/>
+			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+			</relativeArtDefPaths>
 			<libraryDependencies/>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Cultures"/>
-			<relativeArtDefPaths/>
+			<relativeArtDefPaths>
+				<Element text="Civilization.artdef"/>
+				<Element text="Culture.artdef"/>
+			</relativeArtDefPaths>
 			<libraryDependencies/>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>

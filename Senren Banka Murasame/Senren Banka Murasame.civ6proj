@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <Name>MOD_SENREN_BANKA_MURASAME</Name>
     <Guid>f492490c-8930-4c13-ab06-27ab842490b2</Guid>
     <ProjectGuid>177335ed-fc9f-42d7-b18d-ffd131211852</ProjectGuid>
-    <ModVersion>1.7</ModVersion>
+    <ModVersion>1.8</ModVersion>
     <Teaser>LOC_MOD_SENREN_BANKA_MURASAME_TEASER</Teaser>
     <Description>LOC_MOD_SENREN_BANKA_MURASAME_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
-    <SpecialThanks>Dwughjsd, Clear8Sky, Hemmelfort</SpecialThanks>
+    <SpecialThanks>LOC_MOD_SENREN_BANKA_MURASAME_SPECIAL_THANKS</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
